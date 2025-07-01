@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "aadaf81a688d732e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a22db6784d928e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70b8301c2bb65578",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "City of Angels/Timeline.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "6b3a52aeaa96ebd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Small Crimes Collective.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Small Crimes Collective"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "064933b1320d25e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cc8cd5d793076e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89a390edb50f7617",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "315b0da4103a39c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba50ee6900844634",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a4aeefeae1c8605",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba2d7c1679e105c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a89ed59c2ae9473",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Small Crimes Collective.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Small Crimes Collective"
+            }
+          },
+          {
+            "id": "924946c71d149122",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Small Crimes Collective.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Small Crimes Collective"
+            }
+          },
+          {
+            "id": "6142dc8733b096be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "743230a468a2248e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Small Crimes Collective.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Small Crimes Collective"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "system3-relay:Relay": false
+    }
+  },
+  "active": "89a390edb50f7617",
+  "lastOpenFiles": [
+    "City of Angels/System Hub.md",
+    "City of Angels/Timeline.canvas",
+    "Small Crimes Collective.md",
+    "City of Angels/Lore Hub.md",
+    "City of Angels",
+    "2025-07-01.md"
+  ]
+}

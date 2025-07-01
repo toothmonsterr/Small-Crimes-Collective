@@ -1,0 +1,2 @@
+[[Lore Hub]]
+[[System Hub]]

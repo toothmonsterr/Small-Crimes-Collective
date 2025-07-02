@@ -1,6 +1,10 @@
-## Lore Hub
+---
+tags:
+  - hub
+---
+## Lore Hubs
 [[Timeline.canvas|Timeline]]
-[[Angelic Nights]]
+[[Lore]]
 [[Factions]]
 [[Locations]]
 [[Events]]
@@ -8,4 +12,4 @@
 [[Locations]]
 [[Personages]]
 
-## System Hub
+## System Hubs

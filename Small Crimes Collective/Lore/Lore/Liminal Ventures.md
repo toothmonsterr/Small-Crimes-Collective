@@ -1,4 +1,9 @@
-When the Angelic Night falls, not everything remains what it seems. Those whose souls end up dislocated from their bodies, essentially becoming ghosts, experience a different reality.
+---
+tags:
+  - lore
+  - oddities
+---
+When the [[Angelic Night]] falls, not everything remains what it seems. Those whose souls end up dislocated from their bodies, essentially becoming [[ghosts]], experience a different reality.
 
 Topography starts to fails around doorways and places that are colloquially knows as "liminal spaces", and only the topology of the places remains, leading to a curious disconnect between what one sees and what one walks into.
 

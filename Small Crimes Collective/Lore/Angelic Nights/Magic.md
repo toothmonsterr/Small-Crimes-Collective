@@ -1,1 +1,0 @@
-Magic is often sparse, the city where immortality lingers unique in its miracle against the world. But, there's ways besides to harness the very old, lingering magic in the earth-- for example, copper wire is often used as a conduit for both electricity and the weave, and can be equally as useful in magecraft as it is in technology.

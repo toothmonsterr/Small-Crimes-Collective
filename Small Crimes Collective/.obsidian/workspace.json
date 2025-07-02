@@ -11,23 +11,6 @@
             "id": "70b8301c2bb65578",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "City of Angels/Timeline.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "6b3a52aeaa96ebd3",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Small Crimes Collective.md",
@@ -38,8 +21,7 @@
               "title": "Small Crimes Collective"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,12 +169,19 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "89a390edb50f7617",
+  "active": "70b8301c2bb65578",
   "lastOpenFiles": [
-    "City of Angels/System Hub.md",
-    "City of Angels/Timeline.canvas",
+    "Lore/Timeline.canvas",
+    "Lore/Locations.md",
+    "Lore/Angelic Nights.md",
     "Small Crimes Collective.md",
+    "Lore/Factions.md",
+    "System",
     "City of Angels/Lore Hub.md",
+    "City of Angels/System Hub.md",
+    "Untitled.canvas",
+    "City of Angels/Lore/Untitled.canvas",
+    "Lore",
     "City of Angels",
     "2025-07-01.md"
   ]

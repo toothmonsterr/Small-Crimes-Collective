@@ -1,0 +1,2 @@
+Citizens of Twin Stars Fall know when the Angelic Night falls using the Light.
+The Light is not, as a matter of fact, a single light. Rather, it is a switch inserted in every lamp post in the city that makes the white/yellow light of them shine red, allowing every person with a window open to know that the Angelic Night is here.

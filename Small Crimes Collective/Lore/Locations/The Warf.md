@@ -1,0 +1,1 @@
+The industrial district on the island, and where SpannerWorks resides. It is grimy and smoky and a hazard on normal days- and on Angelic Night? It is straight up because, because a worker's pain and safety never meant less when not even death could stop the ruthless wheel of production.

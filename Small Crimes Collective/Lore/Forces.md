@@ -2,7 +2,7 @@
 tags:
   - category
   - hub
-  - lore
+  - forces
 ---
 ## [[Oddities]]
 [[Angelic Night]]

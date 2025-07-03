@@ -1,7 +1,7 @@
 ---
 tags:
-  - lore
   - oddities
+  - forces
 ---
 When the [[Angelic Night]] falls, not everything remains what it seems. Those whose souls end up dislocated from their bodies, essentially becoming [[Ghosts]], experience a different reality.
 

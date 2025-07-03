@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Small Crimes Collective/Lore/Events/Tick Tock.md",
+                "file": "Small Crimes Collective/Lore/Locations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tick Tock"
+              "title": "Locations"
             }
           }
         ],
@@ -367,8 +367,25 @@
   },
   "active": "126188e2b95b3932",
   "lastOpenFiles": [
-    "Mrs. White.md",
+    "Small Crimes Collective/Lore/Factions.md",
+    "Small Crimes Collective/Lore/Events.md",
+    "Small Crimes Collective/Lore/Locations.md",
+    "Small Crimes Collective/Lore/Lore.md",
     "Small Crimes Collective/Lore/Personages.md",
+    "Small Crimes Collective/Lore/Timeline.canvas",
+    "Small Crimes Collective/Lore/Events/Deathless Era.md",
+    "Small Crimes Collective/Lore/Events/Destruction of Grief.md",
+    "Small Crimes Collective/Lore/Events/First Death of Anatoly the Begotten.md",
+    "Small Crimes Collective/Lore/Events/Less Reliable.md",
+    "Small Crimes Collective/Lore/Events/The Pearl Riots.md",
+    "Small Crimes Collective/Lore/Events/The Night Watches.md",
+    "Small Crimes Collective/Lore/Events/Tick Tock.md",
+    "Small Crimes Collective/Lore/Locations/Twin Star Falls.md",
+    "Small Crimes Collective/Lore/Locations/Waterside Boulevard.md",
+    "Small Crimes Collective/Lore/Locations/The Warf.md",
+    "Small Crimes Collective/Lore/Locations/The Sternquarter.md",
+    "Small Crimes Collective/Lore/Personages/Mrs. White.md",
+    "Small Crimes Collective/Lore/Personages/Mrs. White 1.md",
     "Small Crimes Collective/Lore/Forces/The Weave.md",
     "Small Crimes Collective/Lore/Forces/Technology.md",
     "Small Crimes Collective/Lore/Forces/The Light.md",
@@ -377,23 +394,7 @@
     "Small Crimes Collective/Lore/Forces/Liminal Ventures.md",
     "Small Crimes Collective/Lore/Forces/Ghosts.md",
     "Small Crimes Collective/Lore/Forces/Eyes.md",
-    "Small Crimes Collective/Lore/Forces/Electricity.md",
-    "Small Crimes Collective/Lore/Forces/Death Suspension and Regeneration.md",
-    "Small Crimes Collective/Lore/Forces/Conduit.md",
-    "Small Crimes Collective/Lore/Forces/Angelic Night.md",
     "Small Crimes Collective/Lore/Forces",
-    "Small Crimes Collective/Lore/Lore/The Weave.md",
-    "Small Crimes Collective/Lore/Lore/Technology.md",
-    "Small Crimes Collective/Lore/Lore/Oddities.md",
-    "Small Crimes Collective/Lore/Lore/Magic.md",
-    "Small Crimes Collective/Lore/Lore/Ghosts.md",
-    "Small Crimes Collective/Lore/Lore/Eyes.md",
-    "Small Crimes Collective/Lore/Lore/Electricity.md",
-    "Small Crimes Collective/Lore/Lore/Death Suspension and Regeneration.md",
-    "Small Crimes Collective/Lore/Lore/Conduit.md",
-    "Small Crimes Collective/Lore/Lore/Angelic Night.md",
-    "Small Crimes Collective/Lore/Locations/Waterside Boulevard.md",
-    "Small Crimes Collective/Lore/Locations/Twin Star Falls.md",
     "Small Crimes Collective/Lore/Lore",
     "Small Crimes Collective/Lore",
     "Small Crimes Collective/Lore/Personages",
@@ -401,9 +402,7 @@
     "Small Crimes Collective/Lore/Factions",
     "Small Crimes Collective/Lore/Events",
     "Small Crimes Collective/Lore/Angelic Nights",
-    "Small Crimes Collective/Lore/Timeline.canvas",
     "Small Crimes Collective/Lore",
-    "Small Crimes Collective/Lore/Events",
-    "Small Crimes Collective/Lore/Timeline.canvas"
+    "Small Crimes Collective/Lore/Events"
   ]
 }

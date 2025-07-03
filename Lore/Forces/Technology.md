@@ -1,0 +1,6 @@
+---
+tags:
+  - technology
+  - stub
+  - forces
+---

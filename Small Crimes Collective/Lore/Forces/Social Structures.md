@@ -1,6 +1,0 @@
----
-tags:
-  - forces
-  - social
-  - stub
----

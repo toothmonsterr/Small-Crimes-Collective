@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Small Crimes Collective"
             }
+          },
+          {
+            "id": "737a54e6116a1d7b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,39 +176,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "system3-relay:Relay": false
+      "system3-relay:Relay": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70b8301c2bb65578",
+  "active": "89a390edb50f7617",
   "lastOpenFiles": [
-    "Lore/Events/Deathless Era.md",
-    "Lore/Forces.md",
-    "Lore/Locations.md",
-    "Lore/Personages.md",
+    "Lore/Forces/The Weave.md",
+    "Lore/Forces/The Light.md",
     "Lore/Forces/Technology.md",
+    "Lore/Forces/Magic.md",
     "Lore/Forces/Social Structures.md",
     "Lore/Forces/Oddities.md",
-    "Lore/Forces/Magic.md",
-    "Lore/Forces/The Light.md",
-    "Lore/Forces/The Weave.md",
-    "Lore/Locations/Abundant Land.md",
-    "Lore/Locations/Ancient Civilization Under the Volcanic Ash.md",
-    "Lore/Locations/Financial District.md",
-    "Lore/Locations/Kingscourt.md",
-    "Lore/Locations/The Gray Route.md",
-    "Lore/Locations/The Last Stop.md",
-    "Lore/Locations/The Sternquarter.md",
-    "Lore/Locations/The Warf.md",
-    "Lore/Locations/Twin Star Falls.md",
-    "Lore/Locations/Waterside Boulevard.md",
-    "Lore/Personages/Anatoly, the First Begotten.md",
-    "Lore/Personages/Mrs. White.md",
-    "Lore/Personages/Nikolai Drakonov.md",
+    "Lore/Forces/Liminal Ventures.md",
+    "Lore/Forces/Ghosts.md",
+    "Lore/Forces/Eyes.md",
+    "Lore/Forces/Electricity.md",
+    "Lore/Forces/Death Suspension and Regeneration.md",
+    "Lore/Forces/Death Tourism.md",
+    "Lore/Forces/Conduit.md",
+    "Lore/Forces/Angelic Night.md",
+    "Lore/Forces",
     "Lore/Personages/Spanner, Inventor of the Light.md",
-    "Lore/Events.md",
-    "Lore/Factions.md",
-    "Lore/Forces",
-    "Lore/Forces",
+    "Lore/Personages/Ontus the Brave.md",
+    "Lore/Personages/Mrs. White.md",
+    "Lore/Personages/Anatoly, the First Begotten.md",
+    "Lore/Lore.md",
+    "Lore/Locations/Twin Star Falls.md",
+    "Lore/Events/The Pearl Riots.md",
+    "Lore/Events/First Death of Anatoly the Begotten.md",
+    "Lore/Events/Deathless Era.md",
+    "Lore/Personages/One King, Dead Ruler.md",
+    "Lore/Events/Lumber Shortage.md",
+    "Lore/Angelic Nights/The Light.md",
     "Lore/Angelic Nights",
     "Untitled.canvas",
     "Lore/Timeline.canvas",

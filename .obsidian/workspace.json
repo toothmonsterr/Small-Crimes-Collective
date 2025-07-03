@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Forces.md",
+                "file": "Lore/Personages/Ontus the Brave.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forces"
+              "title": "Ontus the Brave"
             }
           }
         ]
@@ -171,18 +171,22 @@
   },
   "active": "126188e2b95b3932",
   "lastOpenFiles": [
-    "config.json",
-    "Lore/Locations.md",
-    "Lore/Forces.md",
-    "Lore/Factions.md",
+    "Lore/Personages/Spanner, Inventor of the Light.md",
     "Lore/Events.md",
+    "Lore/Factions.md",
+    "Lore/Forces.md",
+    "Lore/Personages.md",
+    "README.md",
+    "Small Crimes Collective.md",
+    "Lore/Locations.md",
+    "System/Ex Novo.md",
+    "System/City of Angels.md",
+    "config.json",
     "Lore/Events/The Night Watches.md",
     "Lore/Events/Less Reliable.md",
     "Lore/Events/First Death of Anatoly the Begotten.md",
     "Lore/Events/Destruction of Grief.md",
     "Lore/Events/Deathless Era.md",
-    "README.md",
-    "Small Crimes Collective.md",
     "Small Crimes Collective/Lore/Factions.md",
     "Small Crimes Collective/Lore/Events.md",
     "Small Crimes Collective/Lore/Locations.md",
@@ -195,9 +199,6 @@
     "Small Crimes Collective/Lore/Events/Less Reliable.md",
     "Small Crimes Collective/Lore/Events/The Pearl Riots.md",
     "Small Crimes Collective/Lore/Events/The Night Watches.md",
-    "Small Crimes Collective/Lore/Events/Tick Tock.md",
-    "Small Crimes Collective/Lore/Locations/Twin Star Falls.md",
-    "Small Crimes Collective/Lore/Locations/Waterside Boulevard.md",
     "Small Crimes Collective/Lore/Forces",
     "Small Crimes Collective/Lore/Lore",
     "Small Crimes Collective/Lore",
@@ -206,7 +207,6 @@
     "Small Crimes Collective/Lore/Factions",
     "Small Crimes Collective/Lore/Events",
     "Small Crimes Collective/Lore/Angelic Nights",
-    "Small Crimes Collective/Lore",
-    "Small Crimes Collective/Lore/Events"
+    "Small Crimes Collective/Lore"
   ]
 }

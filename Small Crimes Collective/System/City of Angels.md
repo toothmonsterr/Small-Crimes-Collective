@@ -1,5 +1,5 @@
 ---
 tags:
-  - hub
+  - system
   - stub
 ---

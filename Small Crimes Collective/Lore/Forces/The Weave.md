@@ -1,8 +1,8 @@
 ---
 tags:
-  - lore
   - magic
   - stub
+  - forces
 aliases:
   - weave
   - magic

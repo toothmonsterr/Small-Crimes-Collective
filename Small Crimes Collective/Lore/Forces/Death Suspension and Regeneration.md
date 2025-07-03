@@ -1,7 +1,7 @@
 ---
 tags:
-  - lore
   - oddities
+  - forces
 ---
 Whereas [[Anatoly, the First Begotten]] could survive anything thrown at him, regenerating what he lost within hours at most, the rules of survival within the [[Angelic Night]] are a bit different:
 

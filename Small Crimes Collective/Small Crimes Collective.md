@@ -4,7 +4,7 @@ tags:
 ---
 ## Lore Hubs
 [[Timeline.canvas|Timeline]]
-[[Lore]]
+[[Forces]]
 [[Factions]]
 [[Locations]]
 [[Events]]

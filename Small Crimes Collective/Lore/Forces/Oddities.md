@@ -1,6 +1,6 @@
 ---
 tags:
-  - lore
   - oddities
   - stub
+  - forces
 ---

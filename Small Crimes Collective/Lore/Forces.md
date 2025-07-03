@@ -13,7 +13,9 @@ tags:
 ## [[Magic]]
 [[Conduit]]
 [[The Weave]]
-
 ## [[Technology]]
 [[Electricity]]
 [[The Light]]
+
+## [[Social Structures]]
+[[Death Tourism]]

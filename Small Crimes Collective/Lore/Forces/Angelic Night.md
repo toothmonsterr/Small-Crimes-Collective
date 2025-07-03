@@ -1,8 +1,7 @@
 ---
 tags:
-  - lore
   - oddities
-  - stub
+  - forces
 aliases:
   - Angelic Nights
   - Nights

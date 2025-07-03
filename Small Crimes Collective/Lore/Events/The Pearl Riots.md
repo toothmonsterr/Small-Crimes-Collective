@@ -1,7 +1,6 @@
 ---
 tags:
   - events
-  - stub
 ---
 Fishermen and divers in general were among the most disadvantaged people during the [[Angelic Night]], as deaths at the sea were hard for even the Angelic Nights to defend against.
 

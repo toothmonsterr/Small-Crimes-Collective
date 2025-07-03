@@ -1,7 +1,6 @@
 ---
 tags:
   - events
-  - stub
 ---
 This is the period of time that followed the creation of [[The Light]]
 

@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Small Crimes Collective/Lore/Events/The Pearl Riots.md",
+                "file": "Mrs. White.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Pearl Riots"
+              "title": "Mrs. White"
             }
           }
         ],
@@ -367,33 +367,34 @@
   },
   "active": "126188e2b95b3932",
   "lastOpenFiles": [
-    "Small Crimes Collective/Lore/Personages/Mrs. White.md",
+    "Small Crimes Collective/Lore/Personages.md",
+    "Mrs. White.md",
     "Small Crimes Collective/Lore/Lore/The Weave.md",
-    "Small Crimes Collective/Lore/Lore/The Light.md",
     "Small Crimes Collective/Lore/Lore/Technology.md",
     "Small Crimes Collective/Lore/Lore/Oddities.md",
     "Small Crimes Collective/Lore/Lore/Magic.md",
-    "Small Crimes Collective/Lore/Lore/Liminal Ventures.md",
     "Small Crimes Collective/Lore/Lore/Ghosts.md",
     "Small Crimes Collective/Lore/Lore/Eyes.md",
-    "Small Crimes Collective/Lore/Lore/Death Suspension and Regeneration.md",
     "Small Crimes Collective/Lore/Lore/Electricity.md",
+    "Small Crimes Collective/Lore/Lore/Death Suspension and Regeneration.md",
     "Small Crimes Collective/Lore/Lore/Conduit.md",
     "Small Crimes Collective/Lore/Lore/Angelic Night.md",
-    "Small Crimes Collective/Lore/Lore",
-    "Small Crimes Collective/Lore/Events/Tick Tock.md",
-    "Small Crimes Collective/Lore/Events/The Pearl Riots.md",
-    "Small Crimes Collective/Lore/Events/The Night Watches.md",
-    "Small Crimes Collective/Lore/Events/Less Reliable.md",
-    "Small Crimes Collective/Lore/Events/First Death of Anatoly the Begotten.md",
-    "Small Crimes Collective/Lore/Events/Destruction of Grief.md",
-    "Small Crimes Collective/Lore/Events/Deathless Era.md",
-    "Small Crimes Collective/Lore/Factions/Agents of Chaos.md",
+    "Small Crimes Collective/Lore/Locations/Waterside Boulevard.md",
+    "Small Crimes Collective/Lore/Locations/Twin Star Falls.md",
+    "Small Crimes Collective/Lore/Locations/The Warf.md",
     "Small Crimes Collective/Lore/Locations/The Sternquarter.md",
-    "Small Crimes Collective/Lore/Locations/Ancient Civilization Under the Volcanic Ash.md",
-    "Small Crimes Collective/Lore/Locations/Financial District.md",
+    "Small Crimes Collective/Lore/Locations/The Last Stop.md",
+    "Small Crimes Collective/Lore/Locations/The Gray Route.md",
     "Small Crimes Collective/Lore/Locations/Kingscourt.md",
-    "Small Crimes Collective/Lore/Personages/Nikolai Drakonov.md",
+    "Small Crimes Collective/Lore/Locations/Financial District.md",
+    "Small Crimes Collective/Lore/Locations/Ancient Civilization Under the Volcanic Ash.md",
+    "Small Crimes Collective/Lore/Locations/Abundant Land.md",
+    "Small Crimes Collective/Lore/Factions/The Church.md",
+    "Small Crimes Collective/Lore/Factions/SpannerWorks Mega-Corp.md",
+    "Small Crimes Collective/Lore/Factions/Doctors Within Borders.md",
+    "Small Crimes Collective/Lore/Factions/Agents of Chaos.md",
+    "Small Crimes Collective/Lore/Lore",
+    "Small Crimes Collective/Lore/Forces",
     "Small Crimes Collective/Lore",
     "Small Crimes Collective/Lore/Personages",
     "Small Crimes Collective/Lore/Locations",
@@ -403,7 +404,6 @@
     "Small Crimes Collective/Lore/Timeline.canvas",
     "Small Crimes Collective/Lore",
     "Small Crimes Collective/Lore/Events",
-    "Small Crimes Collective/Lore/Personages",
     "Small Crimes Collective/Lore/Timeline.canvas"
   ]
 }

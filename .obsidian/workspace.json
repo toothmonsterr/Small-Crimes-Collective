@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03e7adc4a6efb0be",
+  "active": "4fcd094a6bd1da63",
   "lastOpenFiles": [
     "README.md",
     "Fabula Ultima.md",

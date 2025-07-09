@@ -17,3 +17,4 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 [[City of Angels]] pitch deck  
 [[Microscope]] for world generation  
 [[Ex Novo]] for city generation  
+[[Fabula Ultima]]

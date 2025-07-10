@@ -44,8 +44,10 @@ Set your core attributes with one of the following spreads.
 Assign these dice to your **Dexterity (DEX)**, **Insight (INS)**, **Might (MIG)**, and **Willpower (WLP)**.
 
 ### Step 4: Starting Zenit
-To determine your starting Zenit, roll for it in the [rolls-log](https://discord.com/channels/1382793642871099392/1392976635195818164) channel. Use the following format:
-`!r 2d6 * 10 [Your Character Name here] starting zenit`
+To determine your starting Zenit, roll for it in the [rolls-log](https://discord.com/channels/1382793642871099392/1392976635195818164) channel. Use the following format:  
+```
+!r 2d6 * 10 [Your Character Name here] starting zenit
+```
 ### Step 5: Starting Equipment
 To start with, you can spend your starting zenit on any **Basic** equipment, as listed in the core rulebook. More official shop documents are to come.
 ### Step 6: Finishing Touches

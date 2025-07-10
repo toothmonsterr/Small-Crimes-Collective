@@ -14,7 +14,7 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 [[Locations]]  
 [[Personages]]  
 ## System Hubs
-[[City of Angels]] pitch deck  
-[[Microscope]] for world generation  
-[[Ex Novo]] for city generation  
 [[Fabula Ultima]]
+[[Character Creation]]
+[[Roleplay & Sessions]]
+[[Progression]]

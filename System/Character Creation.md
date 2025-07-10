@@ -16,6 +16,7 @@ Creating a character in Small Crimes Collective involves developing a character 
 Players have two options for character sheets:
 * Duplicate this [template gsheet](https://docs.google.com/spreadsheets/d/1gRVfD8eeljeorSeOnhEntdsz0aasU7QXAELid90equg/edit#gid=0) and create your character following the guide.
 * Create a [Fultimator](https://fabula-ultima-helper.web.app/) account and create your character within the builder tool.
+
 You will submit your character using either of these two tools.
 
 ## Creation Process
@@ -31,18 +32,16 @@ Traits are in three categories:
 If you need help developing any of these, let the community know in the [character-help channel](https://discord.com/channels/1382793642871099392/1382793644167401512). You are free to develop regions, cities, and locales outside [[Twin Star Falls|The City]] for your character to be from, based on the landmasses on the [[World Map]].
 
 ### Optional Step: Quirks
-Fabula Ultima allows for unique twists on character mechanics called **Quirks.** Your character can have **one quirk** at any given time. These quirks are found in the expanded Atlases. If you do take a Quirk, check the **Additional Tables** tab on your sheet. Copy the Quirk table and paste it into your Main Sheet so its features are clear to you and others.
-
+Fabula Ultima allows for unique twists on character mechanics called **Quirks.** Your character can have **one quirk** at any given time. These quirks are found in the expanded Atlases. If you do take a Quirk, be sure to add it to your sheet.
 ### Step 2: Classes
 Choose two OR three (not more or fewer) classes to start with. You have five levels to input into these classes. Note down the **Free Benefits** and **Skills** gained from each class you take.
-
 ### Step 3: Attributes
 Set your core attributes with one of the following spreads. 
 - **Jack of All Trades**: d8 / d8 / d8 / d8
 - **Average**: d10 / d8 / d8 / d6
 - **Specialized**: d10 / d10 / d6 / d6
-Assign these dice to your **Dexterity (DEX)**, **Insight (INS)**, **Might (MIG)**, and **Willpower (WLP)**.
 
+Assign these dice to your **Dexterity (DEX)**, **Insight (INS)**, **Might (MIG)**, and **Willpower (WLP)**.
 ### Step 4: Starting Zenit
 To determine your starting Zenit, roll for it in the [rolls-log](https://discord.com/channels/1382793642871099392/1392976635195818164) channel. Use the following format:  
 ```
@@ -52,7 +51,6 @@ To determine your starting Zenit, roll for it in the [rolls-log](https://discord
 To start with, you can spend your starting zenit on any **Basic** equipment, as listed in the core rulebook. More official shop documents are to come.
 ### Step 6: Finishing Touches
 To round out your character, it's time to determine their **name**, **pronouns**, **appearance**, and **biography.** Name, pronoun, and a short biography is required for submission. If you want to use art for your character, keep in mind that we have a **no generative AI** rule on the server for artwork.
-
 ## Submission
 Now it's time to submit your character. This is a collaborative process, so there may be some edits or suggestions made to allow your character to best fit into the world.
 

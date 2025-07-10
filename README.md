@@ -14,7 +14,7 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 [[Locations]]  
 [[Personages]]  
 ## System Hubs
-[[Fabula Ultima]]
-[[Character Creation]]
-[[Roleplay & Sessions]]
-[[Progression]]
+[[Fabula Ultima]]  
+[[Character Creation]]  
+[[Roleplay & Sessions]]  
+[[Progression]]  

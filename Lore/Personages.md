@@ -6,7 +6,7 @@ tags:
 ---
 [[Anatoly, the First Begotten]]  
 [[Mrs. White]]  
-[[Nikolai Drakonov]]  
+[[Leonid Yakovich]]  
 [[Ontus the Brave]]  
 [[Spanner, Inventor of the Light]]  
 

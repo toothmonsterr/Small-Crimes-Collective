@@ -14,6 +14,6 @@ Playing the game in Small Crimes Collective is done primarily through either **r
 ## Character Profiles
 TBD.
 ## Session Rules
-1. Sessions are announced by GMs in the scheduling channel. Sessions should have a time listed, an expected duration, a title, and a short description.
+1. Sessions are announced by GMs in the scheduling channel. Sessions should have a time listed, an expected duration, a title, and a short description. 
 2. It is up to the GM which players they choose to play.
 3. There are no prerequisites to being a GM. Just react to the below post and you can run your own games!

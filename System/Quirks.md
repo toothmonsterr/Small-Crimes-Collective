@@ -3,7 +3,7 @@ tags:
   - system
   - stub
 ---
-[[#Quirk List]] Quirks are an **advanced optional rule** that provides strong thematic and mechanical options for Player Characters. The Quirks presented in these pages were written with a ==High Fantasy/Natural Fantasy/Techno Fantasy as the case may be== assumption, but may be used in any campaign. You may also use them as reference to create your own Quirks – but you should only do so if the rest of your group agrees to it.
+Quirks are an **advanced optional rule** that provides strong thematic and mechanical options for Player Characters. The Quirks presented in these pages were written with a ==High Fantasy/Natural Fantasy/Techno Fantasy as the case may be== assumption, but may be used in any campaign. You may also use them as reference to create your own Quirks – but you should only do so if the rest of your group agrees to it.
 
 * A [Player Character] may only ever have **one** Quirk.
 * If you use Quirks in your game, it is **strongly suggested** that each Player Character begins play with one. Additionally, no two characters in the same group should have identical Quirks.
@@ -19,9 +19,50 @@ Quirks should be seen as a mechanical and narrative reinforcement of your charac
 
 #### Quirk Table
 
+| Quirk                     | Source   | Take this if...                                                                               |
+| ------------------------- | -------- | --------------------------------------------------------------------------------------------- |
+| [[#Agitator]]             | TF       | ...you want to be close to the People and poke a stick in the eye of the Man                  |
+| [[#Ancient Weapon]]       | NF       | ...if you want want an especially unusual rare item, taken from the distant past.             |
+| [[#Arboreal]]             | HF/NF    | ...if you want to be a sentient plant.                                                        |
+| [[#Big Bro]]              | NF       | ...if you want to be the team mom.                                                            |
+| [[#Cognitive Ghost]]      | TF       | ...if you want to be like an straddle the line between the human world and the demonic world. |
+| [[#Cursed]]               | HF/NF    | ...if you want more wump.                                                                     |
+| [[#Diabolist]]            | TF       | ...if you want a demonic familiar.                                                            |
+| [[#Elemental Soul]]       | HF/NF    | ...if you want to be attuned to a particular element.                                         |
+| [[#Empty Hands]]          | HF       | ...if you think the only weapon worth relying in is a four-fingered fist.                     |
+| [[#Enigmatic Relic]]      | TF       | ...if you want a a truly bizzare relic                                                        |
+| [[#Fettered Heart]]       | HF       | ...if you want to be bound to an Authority that's shaped your life.                           |
+| [[#Flight]]               | HF/NF    | ...if you want to, well, fly.                                                                 |
+| [[#From a Distant World]] | HF/TF    | ...if you want to be isekaid                                                                  |
+| [[#Fugitive Experiment]]  | TF       | ...if you were born in a secret lab instead of a natal ward.                                  |
+| [[#Glorious Fate]]        | HF       | ...if you want to be bound by the Prophecy... or defy it.                                     |
+| [[#Heirloom]]             | HF       | ...if you want to benefit from your generational wealth.                                      |
+| [[#Hundred Faces]]        | TF       | ...if you'd like to have even more identity issues.                                           |
+| [[#Inventor Prodigy]]     | TF       | ...if you want to wiz kid.                                                                    |
+| [[#Mysterious Grimoire]]  | NF       | ...if you want a big spooky magical book.                                                     |
+| [[#Neo-Human]]            | TF       | ...if you want to be better than human.                                                       |
+| [[#Old Transport]]        | HF       | ...if you need a set of wheels.                                                               |
+| [[#Outcast Fairy]]        | NF       | ...if you come from another realm entirely.                                                   |
+| [[#Planet Oracle]]        | TF       | ...if you want to to listen to the voice of Revachol.                                         |
+| [[#Repentant Enforcer]]   | TF       | ...if you want to try being a good cop. Hah.                                                  |
+| [[#Revenant]]             | HF       | ...if lead to the head wasn't enough to keep you down.                                        |
+| [[#Rival Progiy]]         | HF       | ...if you've stepped on the wrong person's toes.                                              |
+| [[#Robot]]                | HF/NF/TF | ...if you want to be a robot.                                                                 |
+| [[#Ruinbringer]]          | HF       | ...if you're foredoomed to a horrible fate.                                                   |
+| [[#Souls Entwined]]       | HF       | ...if you have some serious co-dependency issues.                                             |
+| [[#Stolen Transport]]     | TF       | ..if you need a set of wheels, no matter the cost.                                            |
+| [[#Stubborn Scion]]       | NF       | ...if you want to benefit from generational wealth, but consistently                          |
+| [[#Survivor]]             | NF/TF    | ...if you want more wump. Or to minmax, ig.                                                   |
+| [[#The Beast who Spoke]]  | NF/TF    | ...if you want to play a dog.                                                                 |
+| [[#The Long Dream]]       | NF       | ...if you're just visiting on your way to the next phase of life.                             |
+| [[#Traveling Workshop]]   | NF       | ...if you need a set of wheels, and also want to be a wiz kid.                                |
+| [[#Underchild]]           | NF       | ...if you want a mysterious connection to the distant past.                                   |
+| [[#Xiphosymbiosis]]       | TF       | ...if you have some serious co-depdendcy issues, and also want to be a gun.                   |
+
 #### Quirk List
 <hr>
 #### Agitator 
+
 ==Techno Fantasy==
 
 >You have been riling people up to fight against oppressors for years, perhaps for justice, perhaps for vengeance. Who is your current main target? Who or what did you lose because of your insubordination? Who or what is hunting you down? 
@@ -113,7 +154,7 @@ Additionally, while you have no weapons or shields equipped (aside for unarmed s
 #### Enigmatic Relic
 ==Techno Fantasy==
 
-You possess a strange weapon capable of shaping the weave of reality, an artifact from a forgotten past (or perhaps even a far away future). How did you obtain it, and how did you discover the basics of its functioning? Who is trying to take the relic from you? 
+>You possess a strange weapon capable of shaping the weave of reality, an artifact from a forgotten past (or perhaps even a far away future). How did you obtain it, and how did you discover the basics of its functioning? Who is trying to take the relic from you? 
 
 Together with the rest of your group, create a relic: a rare custom weapon (see page 112) worth 1200 zenit or less. The relic is an artifact, may only be destroyed through a PC’s Sacrifice, and may only be stolen from you or lost due to a Surrender. 
 
@@ -203,7 +244,7 @@ Once per session (approximately four hours of play), the Game Master may give yo
 #### Hundred Faces 
 ==Techno Fantasy==
 
->HUNDRED FACES You can disguise yourself as pretty much anybody else. Does this ability come from special gadgets, psychic powers, or a unique physiology? Who was the first person to see through your deception? Whose trust did you lose because of it? Who tried to hire you for an unsavory operation, and how did you respond? 
+>You can disguise yourself as pretty much anybody else. Does this ability come from special gadgets, psychic powers, or a unique physiology? Who was the first person to see through your deception? Whose trust did you lose because of it? Who tried to hire you for an unsavory operation, and how did you respond? 
 
 If you are away from prying eyes, you may use the Skill action and spend 1 Fabula Point to disguise yourself as another creature of humanoid size and shape. If the creature is someone you had a chance to meet, observe or research, you may also adopt their voice and mannerisms. 
 

@@ -27,8 +27,9 @@ Traits are in three categories:
 * **Origin** - Where your character is from in the world.
 
 If you need help developing any of these, let the community know in the [character-help channel](https://discord.com/channels/1382793642871099392/1382793644167401512). You are free to develop regions, cities, and locales outside [[Twin Star Falls|The City]] for your character to be from, based on the landmasses on the [[World Map]].
-### Optional Step: Quirks
-Fabula Ultima allows for unique twists on character mechanics called **Quirks.** Your character can have **one quirk** at any given time. These quirks are found in the expanded Atlases. If you do take a Quirk, check the **Additional Tables** tab on your sheet. Copy the Quirk table and paste it into your Main Sheet so its features are clear to you and others.
+### ~~Optional Step: Quirks
+Fabula Ultima allows for unique twists on character mechanics called **Quirks.** Your character can have **one quirk** at any given time. These quirks are found in the expanded Atlases. If you do take a Quirk, check the **Additional Tables** tab on your sheet. Copy the Quirk table and paste it into your Main Sheet so its features are clear to you and others.~~
+Under review.
 ### Step 2: Classes
 Choose two OR three (not more or fewer) classes to start with. You have five levels to input into these classes. Note down the **Free Benefits** and **Skills** gained from each class you take.
 ### Step 3: Attributes

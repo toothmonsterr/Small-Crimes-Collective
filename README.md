@@ -17,4 +17,6 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 [[Fabula Ultima]]  
 [[Character Creation]]  
 [[Roleplay & Sessions]]  
-[[Progression]]  
+[[Player Progression]] 
+[[Hooks]]
+[[Game Points]]

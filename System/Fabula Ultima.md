@@ -2,7 +2,8 @@
 tags:
   - hub
   - system
-  - stub
+  - game-master
+  - player
 aliases:
   - Fabula
 ---

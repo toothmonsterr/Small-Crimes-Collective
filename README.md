@@ -19,3 +19,4 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 [[Roleplay & Sessions]]  
 [[Player Progression]] 
 [[Hooks]]
+[[Game Points]]

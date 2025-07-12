@@ -4,4 +4,4 @@ tags:
   - hub
   - events
 ---
-<List dir="/Lore/Events"/>
+<List dir="../Events"/>

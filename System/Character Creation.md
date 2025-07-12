@@ -20,7 +20,6 @@ Players have two options for character sheets:
 * Create a [Fultimator](https://fabula-ultima-helper.web.app/) account and create your character within the builder tool.
 
 You will submit your character using either of these two tools.
-
 ## Creation Process
 Character creation largely follows the core rulebook, but is outlined here for clarity.
 ### Step 1: Traits
@@ -47,8 +46,12 @@ Assign these dice to your **Dexterity (DEX)**, **Insight (INS)**, **Might (MIG)*
 ### Step 5: Starting Equipment
 You can spend up to 500 zenit on basic equipment listed in the core rulebook. You keep the zenit left over and will roll for how much additional you start with in the next step. Shop documents are to come.
 ### Step 4: Starting Zenit
-To determine your starting Zenit, roll for it in the [rolls-log](https://discord.com/channels/1382793642871099392/1392976635195818164) channel. Use the following format:
-```!r 2d6*10 [Your Character Name here] starting zenit```
+To determine your starting Zenit, roll for it in the [rolls-log](https://discord.com/channels/1382793642871099392/1392976635195818164) channel. The roll needs to be marked by a character name or concept.
+
+> [!info] Bot Tip
+> You can use this format to roll your zenit.
+> `!r 2d6*10 [Your Character Name here] starting zenit`
+
 ### Step 6: Finishing Touches
 To round out your character, it's time to determine their **name**, **pronouns**, **appearance**, and **biography.** Name, pronoun, and a short biography is required for submission. If you want to use art for your character, keep in mind that we have a **no generative AI** rule on the server for artwork.
 ## Submission

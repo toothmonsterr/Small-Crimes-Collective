@@ -16,7 +16,7 @@ Players can spend their XP to level up, primarily. Each level requires **10 XP**
 `[Character] levels up: [X] --> [Y]`
 
 Games may be limited to specific tiers of play, based on a range of character levels, meaning every member in the party is expected to fall within the specified range. The existing tiers are:
-🟢 Tier 1 - levels **5-9**
-🟡 Tier 2 - levels **10-19**
-🔴 Tier 3 - levels **20-29**
-🔵 Tier 4 - levels **30+**
+* 🟢 Tier 1 - levels **5-9**
+* 🟡 Tier 2 - levels **10-19**
+* 🔴 Tier 3 - levels **20-29**
+* 🔵 Tier 4 - levels **30+**

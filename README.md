@@ -7,13 +7,7 @@ image: /Images/SCC-banner.png
 # Small Crimes Collective
 This is the Wiki repository for the lore and systems of the Small Crimes Collective west march.
 ## Lore Hubs
-[[Forces]]  
-[[Factions]]  
-[[Locations]]  
-[[Events]]  
-[[Factions]]  
-[[Locations]]  
-[[Personages]]  
+<List dir="/Lore"/>
 ## System Hubs
 [[Fabula Ultima]]  
 [[Character Creation]]  

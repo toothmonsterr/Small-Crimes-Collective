@@ -6,6 +6,7 @@ tags:
   - player
 aliases:
   - Fabula
+image: /Images/system-banner.png
 ---
 The core system we use in roleplay and sessions is Fabula Ultima, a JRPG-inspired TTRPG with a focus on worldbuilding, epic narratives, and quick-paced action. It's a character-focused game that emphasizes making grounded characters in the world you create together.
 ## Fabula Ultima Resources

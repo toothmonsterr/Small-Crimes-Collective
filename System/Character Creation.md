@@ -3,6 +3,7 @@ tags:
   - system
   - hub
   - player
+image: /Images/Character-Creation.png
 ---
 Creating a character in Small Crimes Collective involves developing a character in Fabula Ultima and submitting it through a process of approval in order to make sure all the pieces fit into existing lore, and that any new lore you add can be properly documented.
 

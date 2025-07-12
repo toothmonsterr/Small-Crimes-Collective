@@ -2,6 +2,7 @@
 tags:
   - home
   - hub
+image: /Images/Small_Crimes-Collective.png
 ---
 # Small Crimes Collective
 This is the Wiki repository for the lore and systems of the Small Crimes Collective west march.

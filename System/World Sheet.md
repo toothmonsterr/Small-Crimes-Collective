@@ -3,7 +3,7 @@ tags:
   - world
   - system
   - hub
-image: /images/ocean2d.png
+image: ocean2d.png
 ---
 ## The World of [[Enigmata]]
 This world's structure is a broken up pangea of large isles atop a mass of ocean. Speckled volcanic isles exist outside the main pangea, including the isle of [[Twin Star Falls]], where our story takes place.

@@ -1,3 +1,10 @@
+---
+tags:
+  - world
+  - system
+  - hub
+image: /images/ocean2d.png
+---
 ## The World of [[Enigmata]]
 This world's structure is a broken up pangea of large isles atop a mass of ocean. Speckled volcanic isles exist outside the main pangea, including the isle of [[Twin Star Falls]], where our story takes place.
 ## [[Technology]] & [[Magic]]
@@ -35,5 +42,4 @@ The flood of impulsive tourists leads to a surge in crime, and the city reacts. 
 * Ontus left a legacy. There exists areas he conquered and left behind-- what happened to these countries and nations? Do they hold a grudge?
 * The far ocean is filled with massive creatures that can snatch a whole warship out of the water. Reports have shown evidence their habitat is getting closer to the pangea...
 # Map
-![world map](ocean2d.png)
 [Interactive Map](https://www.worldanvil.com/w/small-crimes-collective-toothmonster/map/7539b40b-2eb5-44ec-81cc-84e4ef89b869)

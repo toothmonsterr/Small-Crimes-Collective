@@ -11,5 +11,5 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 ## System Docs
 <List dir="/System"/>
 ## Other Resources
-[[World Sheet]] 
-[[Twin Star Falls]]
+[[World Sheet]]  
+[[Twin Star Falls]]  

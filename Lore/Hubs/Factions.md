@@ -4,8 +4,4 @@ tags:
   - hub
   - factions
 ---
-[[Agents of Chaos]]  
-[[Doctors Within Borders]]  
-[[SpannerWorks Mega-Corp]]  
-[[The Church]]  
-
+<List dir="/Lore/Hubs/Factions"/>

@@ -30,7 +30,7 @@ Traits are in three categories:
 * **Theme** - A strong ideal, emotion, or lens in which your character operates, ex. "Justice."
 * **Origin** - Where your character is from in the world.
 
-If you need help developing any of these, let the community know in the [character-help channel](https://discord.com/channels/1382793642871099392/1382793644167401512). You are free to develop regions, cities, and locales outside [[Twin Star Falls|The City]] for your character to be from, based on the landmasses on the [[World Map]].
+If you need help developing any of these, let the community know in the [character-help channel](https://discord.com/channels/1382793642871099392/1382793644167401512). You are free to develop regions, cities, and locales outside [[Twin Star Falls|The City]] for your character to be from, based on the landmasses on the [[Enigmata]].
 
 ### Optional Step: Quirks
 Fabula Ultima allows for unique twists on character mechanics called **Quirks.** Your character can have **one quirk** at any given time. These quirks are found in the expanded Atlases. If you do take a Quirk, be sure to add it to your sheet.

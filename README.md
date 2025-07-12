@@ -20,3 +20,7 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 [[Player Progression]]  
 [[Hooks]]  
 [[Game Points]]  
+
+## Other Resources
+[[World Sheet]]  
+[[Isle Map]]  

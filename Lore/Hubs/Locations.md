@@ -4,4 +4,4 @@ tags:
   - hub
   - locations
 ---
-<List dir="/Lore/Locations"/>
+<List dir="Small-Crimes-Collective/Lore/Locations"/>

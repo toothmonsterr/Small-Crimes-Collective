@@ -4,4 +4,4 @@ tags:
   - hub
   - events
 ---
-<List dir="/Lore/Events"/>
+<List dir="Small-Crimes-Collective/Lore/Events"/>

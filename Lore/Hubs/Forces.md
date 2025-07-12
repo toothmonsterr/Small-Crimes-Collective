@@ -4,4 +4,4 @@ tags:
   - forces
   - hub
 ---
-<List dir="/Lore/Forces"/>
+<List dir="Small-Crimes-Collective/Lore/Forces"/>

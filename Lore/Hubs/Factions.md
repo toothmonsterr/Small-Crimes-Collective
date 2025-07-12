@@ -4,4 +4,4 @@ tags:
   - hub
   - factions
 ---
-<List dir="/Lore/Factions"/>
+<List dir="Small-Crimes-Collective/Lore/Factions"/>

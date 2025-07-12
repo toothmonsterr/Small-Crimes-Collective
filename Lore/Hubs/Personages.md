@@ -4,4 +4,4 @@ tags:
   - hub
   - category
 ---
-<List dir="Small-Crimes-Collective/Lore/Personages"/>
+<List dir="/Lore/Personages"/>

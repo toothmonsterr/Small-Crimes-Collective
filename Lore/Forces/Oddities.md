@@ -2,7 +2,6 @@
 tags:
   - lore
   - oddities
-  - stub
 ---
 [[Technology]] has its rules, based on physical reality. [[Magic]] also has its rules, based on metaphysical reality.
 

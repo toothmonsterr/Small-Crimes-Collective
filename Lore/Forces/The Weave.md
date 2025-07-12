@@ -1,7 +1,6 @@
 ---
 tags:
   - magic
-  - stub
   - forces
 aliases:
   - weave

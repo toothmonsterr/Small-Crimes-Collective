@@ -1,7 +1,6 @@
 ---
 tags:
   - system
-  - stub
   - player
 ---
 Progression in Small Crimes Collective is done through collection of experience points (XP). XP points can be gained through a number of ways, described below. Characters can spend their accumulated XP on a variety of things, including leveling up.

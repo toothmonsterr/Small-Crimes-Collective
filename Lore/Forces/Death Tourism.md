@@ -2,7 +2,6 @@
 tags:
   - forces
   - social
-  - stub
 ---
 Perhaps the most controversial business in the city, Death Tourism has become a contemptible but very present part of [[Twin Star Falls|The City's]] economy.
 

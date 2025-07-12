@@ -4,4 +4,4 @@ tags:
   - hub
   - locations
 ---
-<List dir="/Lore/Hubs/Locations"/>
+<List dir="/Lore/Locations"/>

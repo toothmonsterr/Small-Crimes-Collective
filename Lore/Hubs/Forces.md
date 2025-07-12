@@ -4,4 +4,4 @@ tags:
   - forces
   - hub
 ---
-<List dir="/Lore/Hubs/Forces"/>
+<List dir="/Lore/Forces"/>

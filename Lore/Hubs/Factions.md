@@ -4,4 +4,4 @@ tags:
   - hub
   - factions
 ---
-<List dir="/Lore/Hubs/Factions"/>
+<List dir="/Lore/Factions"/>

@@ -4,4 +4,4 @@ tags:
   - hub
   - category
 ---
-<List dir="/Lore/Hubs/Personages"/>
+<List dir="/Lore/Personages"/>

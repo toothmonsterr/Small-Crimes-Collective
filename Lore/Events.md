@@ -4,4 +4,4 @@ tags:
   - hub
   - events
 ---
-<List dir="./Events"/>
+<List dir="/Events"/>

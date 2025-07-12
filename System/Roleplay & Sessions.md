@@ -11,7 +11,7 @@ Playing the game in Small Crimes Collective is done primarily through either **r
 **Sessions** are done with a GM running the game, usually with a larger amount of players, and at a specific time with all players present.
 ## Roleplay Etiquette
 
-![](/Images/roleplay-banner.png)
+![[roleplay-banner.png]]
 
 1. Consent is #1. Do not tread on another player's character autonomy without permission -- for example, don't initiate a conflict without discussing it out-of-character beforehand.
 2. Cooperation is key. When playing the game, pay attention to what everybody else is saying and encourage everyone to play an active role.
@@ -23,7 +23,7 @@ Playing the game in Small Crimes Collective is done primarily through either **r
 TBD.
 ## Session Rules
 
-![](/Images/session-banner.png)
+![[session-banner.png]]
 
 Sessions are announced by GMs in the scheduling channel. Sessions should have a time listed, an expected duration, a title, and a short description. Sessions will be listed as either Voice or Play-by-Post (PBP) and may have a player tier restriction for balancing. As well, if any specific players are requested, they should be mentioned along with their character. If a specific VTT is required, it will be listed, and players are expected to be able to use said VTT when playing.
 
@@ -53,7 +53,7 @@ Desired Format: [VC/PBP and/or TotM/VTT]
 ```
 ## GM Rules
 
-![](/Images/GM-banner.png)
+![[GM-banner.png]]
 
 There are only a few prerequisites to being a GM:
 1. An approved character

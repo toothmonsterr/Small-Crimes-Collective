@@ -6,5 +6,5 @@ tags:
   - world
   - stub
 ---
-![world map](/Images/ocean2d.png)
+![[ocean2d_xl.png]]
 Under construction.

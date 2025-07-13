@@ -3,6 +3,7 @@ tags:
   - system
   - hub
   - player
+image: /Images/character-creation-banner.png
 ---
 Creating a character in Small Crimes Collective involves developing a character in Fabula Ultima and submitting it through a process of approval in order to make sure all the pieces fit into existing lore, and that any new lore you add can be properly documented.
 
@@ -19,7 +20,6 @@ Players have two options for character sheets:
 * Create a [Fultimator](https://fabula-ultima-helper.web.app/) account and create your character within the builder tool.
 
 You will submit your character using either of these two tools.
-
 ## Creation Process
 Character creation largely follows the core rulebook, but is outlined here for clarity.
 ### Step 1: Traits
@@ -30,10 +30,7 @@ Traits are in three categories:
 * **Theme** - A strong ideal, emotion, or lens in which your character operates, ex. "Justice."
 * **Origin** - Where your character is from in the world.
 
-If you need help developing any of these, let the community know in the [character-help channel](https://discord.com/channels/1382793642871099392/1382793644167401512). You are free to develop regions, cities, and locales outside [[Twin Star Falls|The City]] for your character to be from, based on the landmasses on the [[World Map]].
-
-### Optional Step: Quirks
-Fabula Ultima allows for unique twists on character mechanics called **Quirks.** Your character can have **one quirk** at any given time. These quirks are found in the expanded Atlases. If you do take a Quirk, be sure to add it to your sheet.
+If you need help developing any of these, let the community know in the [character-help channel](https://discord.com/channels/1382793642871099392/1382793644167401512). You are free to develop regions, cities, and locales outside [[Twin Star Falls|The City]] for your character to be from, based on the landmasses on the [[Enigmata]].
 ### Step 2: Classes
 Choose two OR three (not more or fewer) classes to start with. You have five levels to input into these classes. Note down the **Free Benefits** and **Skills** gained from each class you take.
 ### Step 3: Attributes
@@ -46,8 +43,12 @@ Assign these dice to your **Dexterity (DEX)**, **Insight (INS)**, **Might (MIG)*
 ### Step 5: Starting Equipment
 You can spend up to 500 zenit on basic equipment listed in the core rulebook. You keep the zenit left over and will roll for how much additional you start with in the next step. Shop documents are to come.
 ### Step 4: Starting Zenit
-To determine your starting Zenit, roll for it in the [rolls-log](https://discord.com/channels/1382793642871099392/1392976635195818164) channel. Use the following format:
-```!r 2d6*10 [Your Character Name here] starting zenit```
+To determine your starting Zenit, roll for it in the [rolls-log](https://discord.com/channels/1382793642871099392/1392976635195818164) channel. The roll needs to be marked by a character name or concept.
+
+> [!info] Bot Tip
+> You can use this format to roll your zenit.
+> `!r 2d6*10 [Your Character Name here] starting zenit`
+
 ### Step 6: Finishing Touches
 To round out your character, it's time to determine their **name**, **pronouns**, **appearance**, and **biography.** Name, pronoun, and a short biography is required for submission. If you want to use art for your character, keep in mind that we have a **no generative AI** rule on the server for artwork.
 ## Submission

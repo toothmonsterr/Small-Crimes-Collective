@@ -4,9 +4,11 @@ tags:
   - hub
   - category
 ---
-[[Anatoly, the First Begotten]]  
-[[Mrs. White]]  
-[[Leonid Yakovich]]  
-[[Ontus the Brave]]  
-[[Spanner, Inventor of the Light]]  
-
+## Historical Figures
+* [[Anatoly, the First Begotten]]
+* [[Leonid Yakovich]]
+* [[Mrs. White]]
+* [[Ontus the Brave]]
+* [[Spanner, Inventor of the Light]]
+## NPC's
+TBD.

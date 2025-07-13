@@ -6,7 +6,7 @@ tags:
 ---
 Hooks are pieces of lore, elements of worldbuilding, and otherwise unresolved plot threads that are free to be developed on by players. Using hooks allows players and GM's alike to build onto the world, as well as create relationships and interactions around the specific hooks.
 
-Hooks are created by GM's primarily, but any player can create a hook through play-- for example, spending a Fabula Point to make an ancient civilization rear its head would also manifest or invoke a hook related to that civilization. Doing as much as roleplaying an interesting set of scenes can create hooks, if they have lasting consequences on the world.
+Hooks are created by GM's primarily, but any player can create a hook through play-- for example, spending a Fabula Point to make an ancient civilization rear its head would also manifest or invoke a hook related to that civilization. Doing as much as roleplaying an interesting set of scenes can create hooks, if they have lasting consequences on the world. Finally, there is always the potential to create a hook with your character's creation.
 
 Hooks, when utilized, can be rewarding to players in multiple ways.
 * Referencing or utilizing a hook in a roleplay scene gives **+1 XP** to each participant of the scene. XP can only be redeemed once per scene, and must be logged in [character-log](https://discord.com/channels/1382793642871099392/1392976635195818164).

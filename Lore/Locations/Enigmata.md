@@ -4,6 +4,7 @@ tags:
   - hub
   - map
   - world
+  - stub
 ---
-![world map](ocean2d.png)
+![[ocean2d_xl.png]]
 Under construction.

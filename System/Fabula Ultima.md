@@ -33,7 +33,6 @@ The effect of the tonic becomes: One creature recovers from all status effects.
 Instead of being revealed at 10+, 13+ and 16+, the various degrees of NPC data are revealed at 7+, 10+, and 13+.
 ### PC Bonds
 You can have an unlimited number of bonds towards other player characters, but they will not count past the total of 6 for any skills or class features that scale off of bonds.
-
 ### [[Hooks]]
 Hooks, when utilized, can be rewarding to players in multiple ways.
 * Referencing or utilizing a hook in a roleplay scene gives **+1 XP** to each participant of the scene. XP can only be redeemed once per scene, and must be logged in [character-log](https://discord.com/channels/1382793642871099392/1392976635195818164).

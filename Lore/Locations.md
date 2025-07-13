@@ -22,3 +22,5 @@ The city that sits atop the isle is colloquially called the [[City of Angels]]--
 ## Elsewhere on Enigmata
 The world pf [[Enigmata]] is wide and vast. This list will be updated as more is established.
 * [[Erkodea]]
+* [[Adrias]]
+* [[The Holy Kingdom of Bave]]

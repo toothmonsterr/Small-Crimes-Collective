@@ -38,3 +38,5 @@ Hooks, when utilized, can be rewarding to players in multiple ways.
 * Referencing or utilizing a hook in a roleplay scene gives **+1 XP** to each participant of the scene. XP can only be redeemed once per scene, and must be logged in [character-log](https://discord.com/channels/1382793642871099392/1392976635195818164).
 * Developing a character based around an existing hook grants you an instant **+5 XP** on creation.
 * Spending a Fabula Point to invoke or create a hook in a session grants an additional **+1 XP** per Fabula Point.
+### Session Reports
+Player characters can write a log, diary entry, spy report, or any sort of documentation after a session in order to earn an additional **+1 XP** per session. There is no limit to the amount of players in a session who can claim this, just that it can only be done once per session. The minimum requirement is simple-- simply write in character about what they thought, experienced, or felt during or after the session. 

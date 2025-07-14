@@ -26,3 +26,5 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 * [[Game Points]]
 * [[Basic Equipment Shop]]
 * [[Projects]]
+* [[Craft & Trade]]
+* [[Downtime]]

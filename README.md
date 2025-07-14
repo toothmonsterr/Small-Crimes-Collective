@@ -18,7 +18,11 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 * [[Roleplay & Sessions]]
 * [[Player Progression]]
 * [[Hooks]]
-* [[Game Points]] - WIP
 ## Other Resources
 * [[World Sheet]]  
 * [[Twin Star Falls]]  
+## WIP
+* [[Quirks]]
+* [[Game Points]]
+* [[Equipment & Shops]]
+* [[Projects]]

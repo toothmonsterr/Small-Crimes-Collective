@@ -2,7 +2,6 @@
 tags:
   - system
   - player
-  - stub
 ---
 You can purchase basic equipment from the general shops about town. These items are always available and can be purchased between sessions using the zenit your character earns.
 
@@ -12,7 +11,6 @@ You can purchase basic equipment from the general shops about town. These items 
 | Two-handed ◆ Melee ◆ No Quality. |        |             |                   |
 | **Tome**                         | 100 z  | 【INS + INS】 | 【HR + 6】 physical |
 | Two-handed ◆ Melee ◆ No Quality. |        |             |                   |
-|                                  |        |             |                   |
 
 | # Bow Weapons                     | # Cost | # Accuracy  | # Damage          |
 | --------------------------------- | ------ | ----------- | ----------------- |
@@ -96,12 +94,9 @@ You can purchase basic equipment from the general shops about town. These items 
 | **Steel Plate ✦**  | 300 z  | **12**          | **INS size**    |
 | No Quality.        |        |                 |                 |
 
-| # Shields                                | # Cost | # Defense | # M. Defense |
-| ---------------------------------------- | ------ | --------- | ------------ |
-| **Bronze Shield**                        | 100 z  | **+2**    | **-**        |
-| No Quality.                              |        |           |              |
-| **Runic Shield ✦**                       | 150 z  | **+2**    | **+2**       |
-| No Quality.                              |        |           |              |
-
-## Custom Equipment
-Custom equipment 
+| # Shields          | # Cost | # Defense | # M. Defense |
+| ------------------ | ------ | --------- | ------------ |
+| **Bronze Shield**  | 100 z  | **+2**    | **-**        |
+| No Quality.        |        |           |              |
+| **Runic Shield ✦** | 150 z  | **+2**    | **+2**       |
+| No Quality.        |        |           |              |

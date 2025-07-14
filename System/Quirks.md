@@ -19,45 +19,47 @@ Quirks should be seen as a mechanical and narrative reinforcement of your charac
 
 #### Quirk Table
 
-| Quirk                     | Source   | Take this if...                                                                               | Verdict?                                                                 |
-| ------------------------- | -------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [[#Agitator]]             | TF       | ...you want to be close to the People and poke a stick in the eye of the Man                  | Very SCC Core                                                            |
-| [[#Ancient Weapon]]       | NF       | ...if you want want an especially unusual rare item, taken from the distant past.             | Fine, IG                                                                 |
-| [[#Arboreal]]             | HF/NF    | ...if you want to be a sentient plant.                                                        | Not really sure, I'd need a sell on this from someone                    |
-| [[#Big Bro]]              | NF       | ...if you want to be the team mom.                                                            | I don't really see us using the camping mechanic                         |
-| [[#Cognitive Ghost]]      | TF       | ...if you want to be like an straddle the line between the human world and the demonic world. | I'm fine with this, even if it's a little spooky                         |
-| [[#Cursed]]               | HF/NF    | ...if you want more wump.                                                                     | Sure.                                                                    |
-| [[#Diabolist]]            | TF       | ...if you want a demonic familiar.                                                            | How do we feel about ghosts again?                                       |
-| [[#Elemental Soul]]       | HF/NF    | ...if you want to be attuned to a particular element.                                         | I like it, but it's maybe out of genree                                  |
-| [[#Empty Hands]]          | HF       | ...if you think the only weapon worth relying in is a four-fingered fist.                     | Monk moments. Out of genre?                                              |
-| [[#Enigmatic Relic]]      | TF       | ...if you want a a truly bizzare relic                                                        | Ancient Weapon, but techno fantasy flavored                              |
-| [[#Fettered Heart]]       | HF       | ...if you want to be bound to an Authority that's shaped your life.                           | yes.                                                                     |
-| [[#Flight]]               | HF/NF    | ...if you want to, well, fly.                                                                 | idk, I feel like this is fine (jetpack moments), horrible mutant moments |
-| [[#From a Distant World]] | HF/TF    | ...if you want to be isekaid                                                                  | No                                                                       |
-| [[#Fugitive Experiment]]  | TF       | ...if you were born in a secret lab instead of a natal ward.                                  | Yes                                                                      |
-| [[#Glorious Fate]]        | HF       | ...if you want to be bound by the Prophecy... or defy it.                                     | While I am a firm believer in the Prophecy, others may disagree...       |
-| [[#Heirloom]]             | HF       | ...if you want to benefit from your generational wealth.                                      | Yes, Rich People Exist                                                   |
-| [[#Hundred Faces]]        | TF       | ...if you'd like to have even more identity issues.                                           | Sure                                                                     |
-| [[#Inventor Prodigy]]     | TF       | ...if you want to wiz kid.                                                                    | Sure                                                                     |
-| [[#Mysterious Grimoire]]  | NF       | ...if you want a big spooky magical book.                                                     | Seems too wizarcore                                                      |
-| [[#Neo-Human]]            | TF       | ...if you want to be better than human.                                                       | Sure                                                                     |
-| [[#Old Transport]]        | HF       | ...if you need a set of wheels.                                                               | Sure                                                                     |
-| [[#Outcast Fairy]]        | NF       | ...if you come from another realm entirely.                                                   | No                                                                       |
-| [[#Planet Oracle]]        | TF       | ...if you want to to listen to the voice of Revachol.                                         | Sure                                                                     |
-| [[#Repentant Enforcer]]   | TF       | ...if you want to try being a good cop. Hah.                                                  | YES                                                                      |
-| [[#Revenant]]             | HF       | ...if lead to the head wasn't enough to keep you down.                                        | Ok, this is kind of on point                                             |
-| [[#Rival Progiy]]         | HF       | ...if you've stepped on the wrong person's toes.                                              | Sure                                                                     |
-| [[#Robot]]                | HF/NF/TF | ...if you want to be a robot.                                                                 | IDC, sure?                                                               |
-| [[#Ruinbringer]]          | HF       | ...if you're foredoomed to a horrible fate.                                                   | No                                                                       |
-| [[#Souls Entwined]]       | HF       | ...if you have some serious co-dependency issues.                                             | This would be hard to do                                                 |
-| [[#Stolen Transport]]     | TF       | ..if you need a set of wheels, no matter the cost.                                            | Sure                                                                     |
-| [[#Stubborn Scion]]       | NF       | ...if you want to benefit from generational wealth, but consistently                          | Sure, Rich People Exist, I guess                                         |
-| [[#Survivor]]             | NF/TF    | ...if you want more wump. Or to minmax, ig.                                                   | ok but you have to rp survivor's guilt :gun:                             |
-| [[#The Beast who Spoke]]  | NF/TF    | ...if you want to play a dog.                                                                 | no imo                                                                   |
-| [[#The Long Dream]]       | NF       | ...if you're just visiting on your way to the next phase of life.                             | no imo                                                                   |
-| [[#Traveling Workshop]]   | NF       | ...if you need a set of wheels, and also want to be a wiz kid.                                | sure                                                                     |
-| [[#Underchild]]           | NF       | ...if you want a mysterious connection to the distant past.                                   | naur                                                                     |
-| [[#Xiphosymbiosis]]       | TF       | ...if you have some serious co-depdendcy issues, and also want to be a gun.                   | naur                                                                     |
+| Quirk                     | Source   | Take this if...                                                                               | Alex | tooth | Odd |
+| ------------------------- | -------- | --------------------------------------------------------------------------------------------- | ---- | ----- | --- |
+| [[#Agitator]]             | TF       | ...you want to be close to the People and poke a stick in the eye of the Man                  | ✔    | ✔     | ✔   |
+| [[#Ancient Weapon]]       | NF       | ...if you want want an especially unusual rare item, taken from the distant past.             | ✔    | 📝    |     |
+| [[#Arboreal]]             | HF/NF    | ...if you want to be a sentient plant.                                                        |      |       |     |
+| [[#Big Bro]]              | NF       | ...if you want to be the team mom.                                                            |      |       | ✔   |
+| [[#Cognitive Ghost]]      | TF       | ...if you want to be like an straddle the line between the human world and the demonic world. | ✔    | ✔     | ✔   |
+| [[#Cursed]]               | HF/NF    | ...if you want more wump.                                                                     | ✔    | ✔     | ✔   |
+| [[#Diabolist]]            | TF       | ...if you want a demonic familiar.                                                            | ❓    | ❓     |     |
+| [[#Elemental Soul]]       | HF/NF    | ...if you want to be attuned to a particular element.                                         | ✔    |       | ❓   |
+| [[#Empty Hands]]          | HF       | ...if you think the only weapon worth relying in is a four-fingered fist.                     |      |       | ✔   |
+| [[#Enigmatic Relic]]      | TF       | ...if you want a a truly bizzare relic                                                        |      | 📝    | 📝  |
+| [[#Fettered Heart]]       | HF       | ...if you want to be bound to an Authority that's shaped your life.                           | ✔    | ✔     | ✔   |
+| [[#Flight]]               | HF/NF    | ...if you want to, well, fly.                                                                 | ✔    |       |     |
+| [[#From a Distant World]] | HF/TF    | ...if you want to be isekaid                                                                  |      |       |     |
+| [[#Fugitive Experiment]]  | TF       | ...if you were born in a secret lab instead of a natal ward.                                  | ✔    | ✔     | ✔   |
+| [[#Glorious Fate]]        | HF       | ...if you want to be bound by the Prophecy... or defy it.                                     | ✔    | ✔     | ✔   |
+| [[#Heirloom]]             | HF       | ...if you want to benefit from your generational wealth.                                      | ✔    |       | 📝  |
+| [[#Hundred Faces]]        | TF       | ...if you'd like to have even more identity issues.                                           | ✔    | ✔     | ✔   |
+| [[#Inventor Prodigy]]     | TF       | ...if you want to wiz kid.                                                                    | ✔    | ✔     | ✔   |
+| [[#Mysterious Grimoire]]  | NF       | ...if you want a big spooky magical book.                                                     |      |       | 📝  |
+| [[#Neo-Human]]            | TF       | ...if you want to be better than human.                                                       | ✔    | ✔     | ✔   |
+| [[#Old Transport]]        | HF       | ...if you need a set of wheels.                                                               | ✔    | ✔     | ✔   |
+| [[#Outcast Fairy]]        | NF       | ...if you come from another realm entirely.                                                   |      |       |     |
+| [[#Planet Oracle]]        | TF       | ...if you want to to listen to the voice of Revachol.                                         | ✔    | ✔     | 📝  |
+| [[#Repentant Enforcer]]   | TF       | ...if you want to try being a good cop. Hah.                                                  | ✔    | ✔     | ✔   |
+| [[#Revenant]]             | HF       | ...if lead to the head wasn't enough to keep you down.                                        | ✔    | ✔     | ✔   |
+| [[#Rival Progiy]]         | HF       | ...if you've stepped on the wrong person's toes.                                              | ✔    | ✔     | ✔   |
+| [[#Robot]]                | HF/NF/TF | ...if you want to be a robot.                                                                 | ✔    |       |     |
+| [[#Ruinbringer]]          | HF       | ...if you're foredoomed to a horrible fate.                                                   |      |       | ✔   |
+| [[#Souls Entwined]]       | HF       | ...if you have some serious co-dependency issues.                                             |      |       | ❓   |
+| [[#Stolen Transport]]     | TF       | ..if you need a set of wheels, no matter the cost.                                            | ✔    | ✔     | ✔   |
+| [[#Stubborn Scion]]       | NF       | ...if you want to benefit from generational wealth, but consistently                          | ✔    |       | ✔   |
+| [[#Survivor]]             | NF/TF    | ...if you want more wump. Or to minmax, ig.                                                   | 📝   | 📝    |     |
+| [[#The Beast who Spoke]]  | NF/TF    | ...if you want to play a dog.                                                                 |      |       |     |
+| [[#The Long Dream]]       | NF       | ...if you're just visiting on your way to the next phase of life.                             |      |       | 📝  |
+| [[#Traveling Workshop]]   | NF       | ...if you need a set of wheels, and also want to be a wiz kid.                                | ✔    | ✔     | ✔   |
+| [[#Underchild]]           | NF       | ...if you want a mysterious connection to the distant past.                                   |      | ✔     | ✔   |
+| [[#Xiphosymbiosis]]       | TF       | ...if you have some serious co-depdendcy issues, and also want to be a gun.                   |      |       |     |
+| [[#Stubborn Skeptic]]     | H        | ... if you simply don't believe.                                                              | ✔    | ✔     | ✔   |
+| [[#(Un)faithful Servant]] | H        |                                                                                               | ✔    | ✔     | ✔   |
 
 #### Quirk List
 <hr>
@@ -507,5 +509,30 @@ When your wielder Sacrifices themselves, choose one option:
 * Shatter. You Sacrifice yourself in place of the wielder, who immediately recovers Hit Points equal to their Crisis score and no longer needs to Surrender or Sacrifice. 
 
  Whenever you gain a level, if your Bonds have a total strength of 10
+
+#### Stubborn Skeptic
+> This tale of monsters, demons, and magicks sounds like videogame nonsense. You're probably dreaming, or someone hypnotized you. Maybe it's a prank! Surely it won't turn out you're a wandering soul from Purgatory, or that you stumbled into a magical portal. You gotta admit though, your memories are a fair bit jumbled.
+
+If you are about to receive the effects of an attack, a spell, a Skill, or any other game effect controlled by another creature (be it a beneficial effect, or a negative effect), you must roll 1d6:
+* 1-4: the effects apply as normal, and you gain 1 Suspicion Point.
+* 5-6: you disbelieve the effects, and thus do not receive them.
+At the end of each session (approximately four hours of play), before assigning XP, roll 2d20. If you roll equal to or lower than your current character level, you gain 1 Suspicion Point. Then, if you have 20 or more Suspicion Points, you remember how you arrived here and the Game Master chooses one option: you remember a key clue regarding a threat that is present in your world; or you remember the existence of a new threat and receive a key clue about it. 
+
+When you regain your memories, a strange power awakens within you: you lose this Quirk and receive a Heroic Skill of your choice (you may even choose a Heroic Skill whose requirements you do not satisfy, unless they include a Skill you don't have). This includes choosing a Heroic Skill for a Class you do not have.
+
+#### (Un)faithful Servant
+> You are the right arm to another character, someone who could be destined to great things but is in dire need of your help, as well as showing a frequent lack of common sense. Which promise, debt, or oath binds you? What is your disposition towards them? What do you think is their most significant flaw? Have you ever thought you might be the one who deserves that spot? What secret have you kept from them?
+
+When you gain this Quirk, choose another Player Character: that character becomes your liege. You both create a Bond towards each other; your Bond has one emotion chosen between loyalty and mistrust, and your liege's Bond towards you has one emotion chosen among admiration, inferiority, or mistrust.
+
+> Make sure whoever controls your liege agrees to this relationship and is looking forward to exploring the unique nature of this Quirk with you.
+
+When your liege performs a Check, if you are present on the scene, you may offer your help: you will use the rules for Group Checks (Core Rulebook, page 50), but you automatically succeed on your Support Check. If this happens during a conflict scene, you do not lose your turn in the current round (thus ignoring the limitations in the rules for Teamwork, on page 76 of the Core Rulebook).
+
+Whenever your liege accepts your help in a Group Check, you gain 1 Reliance Points.
+
+At the end of each session (approximately four hours of play), before assigning XP, roll 2d20. If you roll equal to or lower than your current character level, you gain 1 Reliance Point. Then, if you have 20 or more Reliance Points, choose one of the following options:
+* Challenge: it is now time to put your liege to the test. Together with the Player who controls the liege, narrate a duel, a challenge or similar competition in which your liege must prove they do not need your help, and they succeed. Then, you lose this Quirk and gain a Heroic Skill of your choice (you may even choose a Heroic Skill whose requirements you do not satisfy, unless they include a Skill you don't have).
+* Betrayal: the hour is dark, and you show your true colors. Together with the Player who controls your liege, narrate your betrayal and agree on an appropriate consequence (such as the loss of an important object, the resurrection of a terrifying foe, or a change of Theme for your liege). Then, your Player Character becomes a minor or Major Villain (Game Master's choice) and you create a new character.
 
 <hr>

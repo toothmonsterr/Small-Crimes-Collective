@@ -6,7 +6,6 @@ tags:
 image: /Images/character-creation-banner.png
 ---
 Creating a character in Small Crimes Collective involves developing a character in Fabula Ultima and submitting it through a process of approval in order to make sure all the pieces fit into existing lore, and that any new lore you add can be properly documented.
-
 ## Character Requirements
 * Your character must use the [[Fabula Ultima#Approved Content|approved content]] of the server.
 * Your character cannot have elements that are listed on our [lines and veils](https://safety.vercel.app/wguzTmQKSfR3XFi-FicRF).
@@ -41,14 +40,13 @@ Set your core attributes with one of the following spreads.
 
 Assign these dice to your **Dexterity (DEX)**, **Insight (INS)**, **Might (MIG)**, and **Willpower (WLP)**.
 ### Step 5: Starting Equipment
-You can spend up to 500 zenit on basic equipment listed in the core rulebook. You keep the zenit left over and will roll for how much additional you start with in the next step. Shop documents are to come.
+You can spend up to 500 zenit on basic equipment listed in the [[Basic Equipment Shop]]. You keep the zenit left over and will roll for how much additional you start with in the next step.
 ### Step 4: Starting Zenit
 To determine your starting Zenit, roll for it in the [rolls-log](https://discord.com/channels/1382793642871099392/1392976635195818164) channel. The roll needs to be marked by a character name or concept.
 
 > [!info] Bot Tip
 > You can use this format to roll your zenit.
 > `!r 2d6*10 [Your Character Name here] starting zenit`
-
 ### Step 6: Finishing Touches
 To round out your character, it's time to determine their **name**, **pronouns**, **appearance**, and **biography.** Name, pronoun, and a short biography is required for submission. If you want to use art for your character, keep in mind that we have a **no generative AI** rule on the server for artwork.
 ## Submission

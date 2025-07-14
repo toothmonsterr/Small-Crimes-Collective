@@ -13,6 +13,7 @@ Oddities are things that defy the understanding of the common man.
 * [[Liminal Ventures]]  
 * [[Far Sea Leviathans]]
 * [[Wildspace]]
+* [[Aldium]]
 ## Magic
 Magic is anything innate to the world and its power. Magic cannot be wielded without the help of ingenuity and technology, and is often considered a force of its own.
 * [[Wellspring]]

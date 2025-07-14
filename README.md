@@ -24,5 +24,5 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 ## WIP
 * [[Quirks]]
 * [[Game Points]]
-* [[Equipment & Shops]]
+* [[Basic Equipment Shop]]
 * [[Projects]]

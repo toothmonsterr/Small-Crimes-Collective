@@ -45,8 +45,7 @@ Sessions reward XP, with a bare minimum of +5 XP per session.
 * Spending Fabula Points (FP) gains **+1 XP** per FP spent.
 * A villain spending Ultima Points (UP) gains **+1 XP** per UP spent.
 
-As well, players will get a sum of zenit and a session-relevant [[material]]. The specific rewards per player are up to each GM and the session at hand, but we have recommended tables 
-
+As well, players will get a sum of zenit and a session-relevant material, which can be used in crafting and trade. (Note: these systems are in development.) These rewards will be listed in the session log.
 ### Requesting Sessions
 Any player can request a session for any GM to run. This can be as specific or as vague as you wish, but it's helpful for GM's to have a general idea of your expectations for the session so they can best plan for it.
 
@@ -76,8 +75,8 @@ Otherwise, the rules are as follows:
 3. Ask questions. Move the action forward by asking questions to everyone else. Propose things before they happen-- but leave the question open ended so players can expand on it as needed.
 4. Play to find out what happens & avoid over-planning. Fabula Ultima is a game that embraces open-ended narratives and collaborative storytelling. Try not to railroad your players without good cause.
 5. Make good use of villains. Use preexisting ones from the server's villain list, or make your own. Establish their identity and expand on them to further the story of the server as a whole.
-6. Document your session's rewards as well as the session's start and end times. These can be posted in the[ session-log](https://discord.com/channels/1382793642871099392/1393344882839654562) channel using the pinned template. Rewards are ultimately up to you to determine, but we offer recommended rewards and roll tables as guidelines.
-7. Record your [[Hooks|hooks]]. Hooks are things that come up in roleplay, sessions, or events that are currently unresolved but can be followed up on outside of the current session. These should be impactful narrative hooks that players, new or existing, can pick up and run with. These hooks, if developed on in-character, can be marked for XP by both the GM and the player who invoked it. These can be lore elements, mysteries, or even entire lost kingdoms.
+6. Document your session's rewards as well as the session's start and end times. These can be posted in the [session-log](https://discord.com/channels/1382793642871099392/1393344882839654562) channel using the pinned template. Rewards are ultimately up to you to determine, but we offer recommended rewards and roll tables as guidelines.
+7. Record your [[Hooks]]. Hooks are things that come up in play that are unresolved but can be followed up on outside of the current session. These should be impactful narrative hooks that players, new or existing, can pick up and run with. These can be lore elements, mysteries, or even entire lost kingdoms. View the pins in the hooks channel for more rules regarding hooks.
 
 GM's can also help with character approvals if they wish. The process for this involves:
 1. Checking the character sheets for anything that stands out as against server rules.

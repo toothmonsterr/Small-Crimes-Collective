@@ -39,6 +39,14 @@ The rules for playing in a session are as follows:
 1. Respect the GM and your fellow players. Communication is key. Regular server rules and roleplay rules are applicable.
 2. Try to avoid playing in sessions when distracted. It can be disrespectful to your GM and fellow players to be multitasking when in a session. Sometimes it can't be helped, but still, prioritize the session and be clear with everyone when you may be distracted or AFK.
 3. Every roll is visible, including the GM's. Use a dice bot like Avrae to make your rolls for everyone to see.
+### Rewards
+Sessions reward XP, with a bare minimum of +5 XP per session.
+* Playing in a session gains **+5 XP**, with an additional +5 XP for every two hours past the first four. For example, a 6 hour quest will grand +10 XP, and an 8 hour quest will grant +15 XP.
+* Spending Fabula Points (FP) gains **+1 XP** per FP spent.
+* A villain spending Ultima Points (UP) gains **+1 XP** per UP spent.
+
+As well, players will get a sum of zenit and a session-relevant [[material]]. The specific rewards per player are up to each GM and the session at hand, but we have recommended tables 
+
 ### Requesting Sessions
 Any player can request a session for any GM to run. This can be as specific or as vague as you wish, but it's helpful for GM's to have a general idea of your expectations for the session so they can best plan for it.
 
@@ -68,7 +76,7 @@ Otherwise, the rules are as follows:
 3. Ask questions. Move the action forward by asking questions to everyone else. Propose things before they happen-- but leave the question open ended so players can expand on it as needed.
 4. Play to find out what happens & avoid over-planning. Fabula Ultima is a game that embraces open-ended narratives and collaborative storytelling. Try not to railroad your players without good cause.
 5. Make good use of villains. Use preexisting ones from the server's villain list, or make your own. Establish their identity and expand on them to further the story of the server as a whole.
-6. Document your session and post the notes. It doesn't need to be perfect, but a general idea of what happened on the session-- *especially* what about the world has changed from any consequences-- will help keep our world alive. As well, keep track of your session's start and end times for the sake of rewards. These can be posted in the[ session-log](https://discord.com/channels/1382793642871099392/1393344882839654562) channel using the pinned template.
+6. Document your session's rewards as well as the session's start and end times. These can be posted in the[ session-log](https://discord.com/channels/1382793642871099392/1393344882839654562) channel using the pinned template. Rewards are ultimately up to you to determine, but we offer recommended rewards and roll tables as guidelines.
 7. Record your [[Hooks|hooks]]. Hooks are things that come up in roleplay, sessions, or events that are currently unresolved but can be followed up on outside of the current session. These should be impactful narrative hooks that players, new or existing, can pick up and run with. These hooks, if developed on in-character, can be marked for XP by both the GM and the player who invoked it. These can be lore elements, mysteries, or even entire lost kingdoms.
 
 GM's can also help with character approvals if they wish. The process for this involves:

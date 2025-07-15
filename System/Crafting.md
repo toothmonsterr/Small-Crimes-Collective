@@ -35,7 +35,12 @@ Crafting can be done with the use of [[Materials]] and [[Downtime]]. Players can
 | Wayfarer     | Accessories, Ranged Weapons |
 | Weaponmaster | Melee Weapons✦, Shields✦    |
 ## Creating Equipment
+The type of equipment you create is determined by the materials you use and the classes you can craft with. Materials with tags related to **effects** will provide access to customization and quality options, for example.
 
 ### Custom Weapons
+Custom Weapons must be crafted with materials.
+
 
 ### Rare Equipment
+
+## Transmuting Materials

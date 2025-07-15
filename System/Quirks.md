@@ -240,6 +240,8 @@ Once per session (approximately four hours of play), the Game Master can give yo
 #### Survivor 
 >You are among the few who survived a natural catastrophe or the attack of a dreadful creature. Do you believe someone is responsible for this? Were you able to keep in contact with any other survivors? Do you think reconstruction is possible? 
 
+You may acquire this Quirk only if your character’s Theme is Guilt, and your Theme cannot be changed in any way as long as you have this Quirk. 
+
 Permanently increase your maximum Hit Points and maximum Mind Points by 5. 
 
 Choose one option: gain the ability to equip martial melee and ranged weapons, martial armor, and martial shields; or learn any one spell from the Elementalist or Spiritist lists; or permanently increase your maximum Inventory Points by 2.

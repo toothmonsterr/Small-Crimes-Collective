@@ -30,7 +30,6 @@ Traits are in three categories:
 * **Origin** - Where your character is from in the world.
 
 If you need help developing any of these, let the community know in the [character-help channel](https://discord.com/channels/1382793642871099392/1382793644167401512). You are free to develop regions, cities, and locales outside [[Twin Star Falls|The City]] for your character to be from, based on the landmasses on the [[Enigmata]].
-
 #### Step 1.5: Quirks
 
 **Quirks** are central traits that fundamentally define your character. Someone that holds dear a weapon that poisons them can have it as a **Heirloom**, and the victim of a mad scientist's whims can take **Fugitive Experiment.**
@@ -39,7 +38,7 @@ Most characters don't need to start with a **Quirk**, so you are free to skip th
 
 - Only certain Quirks are approved at character creation; check [[Quirks]] for the ones available.
 - Your characters cannot share the same Quirk between them.
-- Certain Quirks require customization, so be sure to read it carefully.
+- Certain Quirks require customization or GM approval, so be sure to read it carefully.
 ### Step 2: Classes
 Choose two OR three (not more or fewer) classes to start with. You have five levels to input into these classes. Note down the **Free Benefits** and **Skills** gained from each class you take.
 ### Step 3: Attributes

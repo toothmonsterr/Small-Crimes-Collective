@@ -28,3 +28,4 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 * [[Projects]]
 * [[Craft & Trade]]
 * [[Downtime]]
+* [[NPCs & Villains]]

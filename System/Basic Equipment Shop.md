@@ -4,7 +4,7 @@ tags:
   - player
   - stub
 ---
-You can purchase basic equipment from the general shops about town. These items are always available and can be purchased between sessions using the zenit your character earns. Items with this symbol ✦ on them are martial items, and only some classes have access to them- check if you can use them before you get them.
+You can purchase basic equipment from the general shops about town. These items are always available and can be purchased between sessions using the zenit your character earns. Items with this symbol ✦ on them are martial items, and only some classes have access to them-- check if you can use them before you get them.
 
 | # Arcane Weapons                 | # Cost | # Accuracy  | # Damage          |
 | -------------------------------- | ------ | ----------- | ----------------- |
@@ -102,6 +102,3 @@ You can purchase basic equipment from the general shops about town. These items 
 | No Quality.                              |        |           |              |
 | **Runic Shield ✦**                       | 150 z  | **+2**    | **+2**       |
 | No Quality.                              |        |           |              |
-
-## Custom Equipment
-Custom equipment 

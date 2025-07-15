@@ -18,10 +18,10 @@ Each tag is associated with either an **effect**, **element**, or **rarity**.
 * Elements are tags associated with a damage type, ex. `⚡bolt`. These elements can also be correlated to a status effect, Dazed in the case of `⚡bolt`.
 * Rarity tags are associated with the [[Player Progression#Player Tiers|player tier]] they are attributed to, such as `🌀strange` representing the second tier, levels 10-19.
 
-These categories can be mixed and matched, but a single material can never have more than one tag from a single category. 
+These categories can be mixed and matched, but a single material can never have more than one tag from each category. 
 
 > [!info] Example
-> A **Mysterious Orb** can be `🔮arcane` + `🚦light` + `🌠mythic`, but it cannot be both `🪽pure` and `🔮arcane` effects. Similarly, the tags cannot have both `🚦light` and `💀dark`, only one or the other element.
+> A **Mysterious Orb** can be `🔮arcane` + `🚦light` + `🌠mythic`, but it **cannot** be both `🪽pure` and `🔮arcane` effects. Similarly, the material **cannot** have both `🚦light` and `💀dark`, only one or the other element.
 ### Material Tags
 
 | # 1d9 | # Effect   | # Associated Qualities                    |
@@ -44,7 +44,7 @@ These categories can be mixed and matched, but a single material can never have 
 | 4     | 🪨earth   | Shaken              |
 | 5     | 🔥fire    | Enraged             |
 | 6     | ❄️ice     | Slow                |
-| 7     | 🚦light   | +/- MP              |
+| 7     | ☀️light   | +/- MP              |
 | 8     | 🍏poison  | Poisoned            |
 
 | # 1d6 | # Rarity   | # Associated Tier     |

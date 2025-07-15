@@ -17,6 +17,7 @@ The core system we use in roleplay and sessions is Fabula Ultima, a JRPG-inspire
 * **Fabula Ultima** - Core Rulebook
 * **ATLAS Expansions** - High Fantasy, Techno Fantasy, and Natural Fantasy
 * **Seasonal Content** - April Fools & Halloween
+___
 ## Server Errata
 This server has some base changes to the default rules in the core rulebook, but they are subject to change on a GM-by-GM basis.
 ### Initiative

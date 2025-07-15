@@ -9,6 +9,7 @@ Playing the game in Small Crimes Collective is done primarily through either **r
 **Roleplay** is done with any number of players (you can even roleplay with yourself, if you want), usually through text, and without someone "in charge" of the scene beyond the people within it. 
 
 **Sessions** are done with a GM running the game, usually with a larger amount of players, and at a specific time with all players present.
+___
 ## Roleplay Etiquette
 
 ![[roleplay-banner.png]]
@@ -21,6 +22,7 @@ Playing the game in Small Crimes Collective is done primarily through either **r
 6. If someone is uncomfortable or not having a desirable time, stop. Discuss what can be resolved together, or ping a moderator if needed.
 ## Character Profiles
 TBD.
+___
 ## Session Rules
 
 ![[session-banner.png]]
@@ -58,6 +60,7 @@ Desired Format: [VC/PBP and/or TotM/VTT]
 
 [Description of session concept]
 ```
+____
 ## GM Rules
 
 ![[GM-banner.png]]

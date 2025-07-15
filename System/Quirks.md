@@ -6,7 +6,6 @@ tags:
 Quirks are an **advanced optional rule** that provides strong thematic and mechanical options for Player Characters. 
 
 * A [[Character Creation|Character]] may only ever have **one** Quirk.
-* If you use Quirks in your game, it is **strongly suggested** that each Player Character begins play with one. Additionally, no two characters in the same group should have identical Quirks.
 * On average, a group of Player Characters with access to Quirks will be able to tackle more challenging situations than what would be normal for their level.
 * If it makes sense in the story, a character may lose their current Quirk and gain a different one – discuss this with the group.
 ## Using Quirks in your Game

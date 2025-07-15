@@ -47,13 +47,13 @@ Quirks should be seen as a mechanical and narrative reinforcement of your charac
 | [[#(Un?)faithful Servant]] | HW     | ...your boss can't put on their trousers without your help                                 |
 
 #### Quirk List
-<hr>
+---
 #### Agitator 
 >You have been riling people up to fight against oppressors for years, perhaps for justice, perhaps for vengeance. Who is your current main target? Who or what did you lose because of your insubordination? Who or what is hunting you down? 
 
 When you rest inside or near a settlement, you may choose one option: you learn what the locals are mainly angry about or afraid of, or you create a contact that lives and operates in this area – give them a name and specialization, and the Game Master tells you what they ask of you (they might request a payment or need help). 
 
-<hr>
+---
 #### Ancient Weapon 
 > [!tip] Requirement
 > If choosing this quirk, you must work with the GM's regarding the lore & balancing of your weapon.
@@ -66,7 +66,7 @@ This weapon should have an especially unusual and technological appearance; it c
 
 Once per session (approximately four hours of play), the Game Master may give you 1 Fabula Point in order to have sudden complications arise due to the unique nature of the weapon (such as strange machines reacting to its presence, or monsters drawn to the special energy it emits). However, the weapon cannot be destroyed, damaged, lost or stolen without your permission as a Player.
 
-<hr>
+---
 #### Cognitive Ghost 
 >You are a presence born within the depths of the soul network, straddling the line between demons and humans. Do you remember your earliest moments? What belief, memory or emotion do you embody? How did that shape your appearance? 
 
@@ -74,7 +74,7 @@ Choose two damage types from air, bolt, dark, earth, fire, ice, and light. You g
 
 You gain the ability to perform Rituals of the Ritualism discipline, and you may use these Rituals to transport creatures in and out of the soul network, as well as to gain information and track entities while inside the soul network.
 
-<hr>
+---
 #### Cursed 
 > You bear the burden of a strange curse. Through which supernatural effects does it manifest? How did you become cursed? Was it a stroke of bad luck, or a form of punishment for something you did? How can the curse be lifted?
 
@@ -86,7 +86,7 @@ When you are about to perform a Check, you may instead describe how your curse g
 
 If you ever manage to break the curse, immediately gain a Heroic Skill of your choice (you may even choose a Heroic Skill whose requirements you do not satisfy, unless they include a Skill you don’t have). This includes choosing a Heroic Skill for a Class you do not have
 
-<hr>
+---
 #### Empty Hands
 >You have forsaken the use of weapons, instead purely relying on your hands and feet. Did you develop this fighting style out of necessity, or was it a choice? Is it because of your monstrous anatomy? Did your blade take one too many lives in the past? 
 
@@ -94,7 +94,7 @@ Your attacks with unarmed strikes deal 6 extra damage. This amount increases to 
 
 Additionally, while you have no weapons or shields equipped (aside for unarmed strikes), you gain a +1 bonus to Defense and a +1 bonus to Magic Defense.
 
-<hr>
+---
 #### Enigmatic Relic
 > [!tip] Requirement
 > If choosing this quirk, you must work with the GM's regarding the lore & balancing of your weapon.
@@ -120,7 +120,7 @@ When a Villain uses the relic’s power, it never generates Paradox Points.
 
 If you Sacrifice yourself and the relic is not destroyed as part of the Sacrifice, it remains a part of the campaign with all the above rules intact, but can now be lost or stolen like any other object (it can still only be destroyed through a Sacrifice).
 
-<hr>
+---
 #### Fettered Heart 
 >For many years you have obeyed the precepts of a certain person or authority; you built your entire existence upon them. Now, however, you begin to see those rules in a darker light, and your heart falters. When did you first doubt them? 
 
@@ -146,7 +146,7 @@ At the end of each session (approximately four hours of play), you lose 1d6 Inst
 
 If your Instability Points ever reach 10 or more, you are immediately reduced to 0 Hit Points and must Surrender. The consequences of this Surrender should be closely tied to you losing control of your abilities. Then, you lose all Instability Points.
 
-<hr>
+---
 #### Glorious Fate 
 > [!tip] Requirement
 > If choosing this quirk, you must work with the GM's regarding the lore of your prophecy and its potential outcomes.
@@ -166,7 +166,7 @@ At the end of each session (approximately four hours of play), before assigning 
 *  The prophecy can never be fulfilled: lose this Quirk, gain 6 Fabula Points, and gain a Heroic Skill from those available for your Classes (you may even choose a Heroic Skill whose requirements you do not satisfy, unless they include a Skill you don’t have). 
  Once the first or last option is chosen, the role of the prophecy in your world comes to an end. Even if later on in the campaign it appears that a situation might match the words of the prophecy, the effects of this Quirk will no longer be in place: you are free to shape your destiny and act based on your inner moral compass. Or perhaps you always were?
 
-<hr>
+---
 #### Heirloom 
 > [!tip] Requirement
 > If choosing this quirk, you must work with the GM's regarding the lore & balancing of your weapon.
@@ -177,7 +177,7 @@ You obtain a single rare item worth 1200 zenit or less, or two rare items worth 
 
 Once per session (approximately four hours of play), the Game Master may give you 1 Fabula Point in order to have sudden complications arise due to the unique nature of the item(s) you carry (such as rival duelists or strange monsters drawn by its magic). Items acquired through this Quirk cannot be destroyed, damaged, lost or stolen without your permission as a Player.
 
-<hr>
+---
 #### Hundred Faces 
 >You can disguise yourself as pretty much anybody else. Does this ability come from special gadgets, psychic powers, or a unique physiology? Who was the first person to see through your deception? Whose trust did you lose because of it? Who tried to hire you for an unsavory operation, and how did you respond? 
 
@@ -185,7 +185,7 @@ If you are away from prying eyes, you may use the Skill action and spend 1 Fabul
 
 Your disguise will reliably fool any soldier-rank creature, but elite- and championrank creatures might see through it due to a failed Check or opportunity. If a Villain is present on the scene with you, they may spend 1 Ultima Point to reveal your true identity through sheer coincidence or superior intuition.
 
-<hr>
+---
 #### Inventor Prodigy 
 >You have a burning passion for technology and strange devices. What innovative yet dangerous discovery have you made, and which shady company is trying to steal that information from you? How do they plan on using it? 
 
@@ -193,7 +193,7 @@ Once per conflict scene, if you need to spend Inventory Points, you can instead 
 
 You may initiate Projects. If a Project requires a special ingredient or material, you may spend 1 Fabula Point to declare you have that item with you. If you do, the invention must have a terrible flaw (see Core Rulebook, page 134)
 
-<hr>
+---
 #### Neo-Human 
 >You represent the next evolutionary stage of humanity (or at least, one possibility). What gives away your nature? Do you conceal it? Do you have a mentor or someone you deeply respect? Which entity or organization is keeping a close eye on you? 
 
@@ -203,13 +203,13 @@ When you join a conflict scene, you may choose one option: you increase that Att
 
 When you choose one of the above options, the Game Master gains an opportunity which can be spent during the current scene or later, to showcase the unexpected collateral effects of your abilities (such as drawing the attention of a psy
 
-<hr>
+---
 #### Old Transport 
 >You own an old vehicle that you love dearly. Unfortunately, the cursed thing barely holds together and won’t stop causing you trouble. Did you build this vehicle yourself, or did you receive it from someone? What very specific flaw or quirk makes it unique? What makes it extremely recognizable? You obtain a transport of your choice from the Core Rulebook (page 125), such as a land vehicle, a ship, or even an airship. The size of this transport is enough to accommodate you and the rest of your group, plus two or three guests, but it is unfit for combat. 
 
 Once per session (approximately four hours of play), the Game Master can give you 2 Fabula Points in order to make the transport’s engines fail, cause an enemy missile to damage its hull, or introduce similar story-based complications. However, the transport can never be destroyed without your permission.
 
-<hr>
+---
 #### Planet Oracle
 >The stream of souls itself speaks through your mouth, its suffering carved in centuriesold scars caused by pollution and ruthless experimentation. How does that pain manifest before your eyes? How was this connection formed? 
 
@@ -217,7 +217,7 @@ When you cause one or more allies to recover Hit Points and/or Mind Points, each
 
 You also gain the ability to perform Rituals of the Spiritism discipline.
 
-<hr>
+---
 #### Repentant Enforcer 
 >You were part of a gang, armed group, police force or military unit. Your hands and heart are stained with the blood of innocents. What shocking event led to your defection? Who do you believe will never forgive you, and why are they right not to? 
 
@@ -237,7 +237,7 @@ When you need to spend Fabula Points, you may instead spend 1 Subversion Point (
 
 Once the Villain leading the organization is defeated and Surrenders, you lose this Quirk, permanently increase your maximum Hit Points and Mind Points by 10, and change your Theme to one of the following: Belonging, Duty, or Justice.
 
-<hr>
+---
 #### Revenant 
 >You were brought back after death, unable to peacefully merge with the stream of souls. Do you know why or how this happened? How does your undeath visually manifest? Were you returned to your body, or displaced into a different one? 
 
@@ -247,7 +247,7 @@ You do not need to breathe, eat or drink, but you still follow the normal rules 
 
 Finally, whenever you deal damage, you may change its type to dark. Additionally, all dark damage you deal ignores Immunities and Resistances.
 
-<hr>
+---
 #### Rival Prodigies
 >You possess an incredible talent, making you one of the very best in your field... too bad you’re always one step behind your eternal rival! Who are they, and when did you last face off against each other? Who trained you, and what expectations do they hold about your future? What did you sacrifice to achieve this level of ability? 
 
@@ -259,7 +259,7 @@ However, while your rival is present on the scene and has 1 or more Ultima Point
 
 >If the rival has no Ultima Points but escalates into becoming a Villain of greater strength, they immediately recharge their Ultima Points: thus, the penalty described above will still apply. The only way to get rid of it is for your rival to die or to stop being a Villain.
 
-<hr>
+---
 #### Stolen Transport 
 >You own a reliable transport that’s gotten you out of trouble quite a few times. Problem is, you kinda… borrowed it. What makes it unique? What kind of fuel does it run on? Who was the original owner, and why do they really want it back? 
 
@@ -267,7 +267,7 @@ You obtain a transport of your choice from among those found on page 125 of the 
 
 Once per session (approximately four hours of play), the Game Master can give you 2 Fabula Points to introduce a narrative complication related to the nature of the transport or its original owner. However, the transport can never be destroyed without your permission.
 
-<hr>
+---
 #### Survivor 
 >You are among the few who survived a natural catastrophe or the attack of a dreadful creature. Do you believe someone is responsible for this? Were you able to keep in contact with any other survivors? Do you think reconstruction is possible? 
 
@@ -275,7 +275,7 @@ Permanently increase your maximum Hit Points and maximum Mind Points by 5.
 
 Choose one option: gain the ability to equip martial melee and ranged weapons, martial armor, and martial shields; or learn any one spell from the Elementalist or Spiritist lists; or permanently increase your maximum Inventory Points by 2.
 
-<hr>
+---
 #### Traveling Workshop 
 >You own a transport that also acts as your shop and laboratory. How did you obtain it? How does it move, and what energy fuels it? What makes it extremely recognizable? Normally, how do people react to its passage? 
 
@@ -297,7 +297,7 @@ At the end of each session (approximately four hours of play), before assigning 
 
 When you regain your memories, a strange power awakens within you: you lose this Quirk and receive a Heroic Skill of your choice (you may even choose a Heroic Skill whose requirements you do not satisfy, unless they include a Skill you don't have). This includes choosing a Heroic Skill for a Class you do not have.
 
-<hr>
+---
 #### (Un?)faithful Servant
 > You are the right arm to another character, someone who could be destined to great things but is in dire need of your help, as well as showing a frequent lack of common sense. Which promise, debt, or oath binds you? What is your disposition towards them? What do you think is their most significant flaw? Have you ever thought you might be the one who deserves that spot? What secret have you kept from them?
 

@@ -12,13 +12,12 @@ There are a few primary ways to gain XP. The main ways are:
 * Writing a [[Session Log|session log]] gains **+1 XP** per session logged.
 * Invoking a [[Hooks|hook]] in a roleplay scene gains **+1 XP** per participant, once per scene.
 * Achieving specific server-wide roleplay objectives.
-
 ## Spending XP
 Players can spend their XP to level up, primarily. Each level requires **10 XP**. When you level up your character, note it in [character-log](https://discord.com/channels/1382793642871099392/1392976635195818164) with the following format:
 `[Character] levels up: [X] --> [Y]`
 
 Remember you are able to change your character's Theme and Identity when gaining a Level. This should be documented on the form.
-
+## Player Tiers
 Games may be limited to specific tiers of play, based on a range of total character levels, meaning every member in the party is expected to fall within the specified range. The existing tiers are:
 * 🟢 Tier 1 - levels **5-9**
 * 🟡 Tier 2 - levels **10-19**

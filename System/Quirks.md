@@ -6,46 +6,14 @@ tags:
 Quirks are an **advanced optional rule** that provides strong thematic and mechanical options for Player Characters. 
 
 * A [[Character Creation|Character]] may only ever have **one** Quirk.
-* If you use Quirks in your game, it is **strongly suggested** that each Player Character begins play with one. Additionally, no two characters in the same group should have identical Quirks.
 * On average, a group of Player Characters with access to Quirks will be able to tackle more challenging situations than what would be normal for their level.
 * If it makes sense in the story, a character may lose their current Quirk and gain a different one – discuss this with the group.
-
 ## Using Quirks in your Game
 Quirks should be seen as a mechanical and narrative reinforcement of your characters’ unique nature. Keep the following in mind:
- * **Quirks shape the game**. Even the less impactful Quirk is a powerful statement about your character and their role in the story. If you pick [[#Heirloom]], you don’t just get “a cool sword” – you get an item with implications. If you pick [[#Glorious Fate]], the prophecy will become a major part of the game. Quirks will take the already heroic Player Characters and kick them up a notch, which can be prove a bit overwhelming. Think carefully before you use them!
+ * **Quirks shape the game**. Even the less impactful Quirk is a powerful statement about your character and their role in the story. If you pick Heirloom, you don’t just get “a cool sword” – you get an item with implications. If you pick Glorious Fate, the prophecy will become a major part of the game. Quirks will take the already heroic Player Characters and kick them up a notch, which can be prove a bit overwhelming. Think carefully before you use them!
  * **Freedom of choice**. You don’t need a Quirk for your character concept to be valid. If your **Identity** is that of a **“Heroine from the Past”**, you shouldn’t feel forced to pick **From a Distant World** for that Identity to be relevant to the story.
  * **How to use Quirks**. These options should be used to bring interesting situations into play, to give your character unique issues and problems to confront, and to provide additional mechanical support for their Traits.
  * **How not to use Quirks**. These options should never be used to make your character stronger than the rest of the group, to steal the spotlight, or to bring sensitive topics that make others uncomfortable into play.
-
-#### Quirk Table
-
-| Quirk                      | Source | Take this if...                                                                            |
-| -------------------------- | ------ | ------------------------------------------------------------------------------------------ |
-| [[#Agitator]]              | TF     | ...you want to be close to the People and poke a stick in the eye of the Man               |
-| [[#Ancient Weapon]]        | NF     | ...you want want an especially unusual rare item, taken from the distant past.             |
-| [[#Cognitive Ghost]]       | TF     | ...you want to be like an straddle the line between the human world and the demonic world. |
-| [[#Cursed]]                | HF/NF  | ...you want more wump.                                                                     |
-| [[#Empty Hands]]           |        |                                                                                            |
-| [[#Enigmatic Relic]]       | TF     | ...you want a a truly bizzare relic                                                        |
-| [[#Fettered Heart]]        | HF     | ...you want to be bound to an Authority that's shaped your life.                           |
-| [[#Fugitive Experiment]]   | TF     | ...you were born in a secret lab instead of a natal ward.                                  |
-| [[#Glorious Fate]]         | HF     | ...you want to be bound by the Prophecy... or defy it.                                     |
-| [[#Heirloom]]              | HF     | ...you want to benefit from your generational wealth.                                      |
-| [[#Hundred Faces]]         | TF     | ...you'd like to have even more identity issues.                                           |
-| [[#Inventor Prodigy]]      | TF     | ...you want to wiz kid.                                                                    |
-| [[#Neo-Human]]             | TF     | ...you want to be better than human.                                                       |
-| [[#Planet Oracle]]         | TF     | ...you want to tune into the world.                                                        |
-| [[#Old Transport]]         | HF     | ...you need a set of wheels.                                                               |
-| [[#Repentant Enforcer]]    | TF     | ...you want to try being a good cop. Hah.                                                  |
-| [[#Revenant]]              | HF     | ...lead to the head wasn't enough to keep you down.                                        |
-| [[#Rival Prodigies]]       | HF     | ...you've stepped on the wrong person's toes.                                              |
-| [[#Stolen Transport]]      | TF     | .,.you need a set of wheels, no matter the cost.                                           |
-| [[#Stubborn Scion]]        | NF     | ...you want to benefit from generational wealth, but consistently                          |
-| [[#Survivor]]              | NF/TF  | ...you want more wump. Or to minmax,                                                       |
-| [[#Traveling Workshop]]    | NF     | ...you need a set of wheels, and also want to be a wiz kid.                                |
-| [[#Stubborn Skeptic]]      | HW     | ...you aren't buying this mumbo-jumbo.                                                     |
-| [[#(Un?)faithful Servant]] | HW     | ...your boss can't put on their trousers without your help                                 |
-
 #### Quirk List
 ---
 #### Agitator 
@@ -201,7 +169,7 @@ When you acquire this Quirk, choose Dexterity, Insight, Might, or Willpower.
 
 When you join a conflict scene, you may choose one option: you increase that Attribute by one die size (up to a maximum of d12) or, if its base die size is d12, you treat it as having a current die size of d20 during Checks you perform (only during Checks, and regardless of status effects). The chosen effect lasts until the end of the scene. 
 
-When you choose one of the above options, the Game Master gains an opportunity which can be spent during the current scene or later, to showcase the unexpected collateral effects of your abilities (such as drawing the attention of a psy
+When you choose one of the above options, the Game Master gains an opportunity which can be spent during the current scene or later, to showcase the unexpected collateral effects of your abilities (such as drawing the attention of a psychic entity, alerting the authorities to your presence, or damaging the continuum).
 
 ---
 #### Old Transport 
@@ -270,6 +238,8 @@ Once per session (approximately four hours of play), the Game Master can give yo
 ---
 #### Survivor 
 >You are among the few who survived a natural catastrophe or the attack of a dreadful creature. Do you believe someone is responsible for this? Were you able to keep in contact with any other survivors? Do you think reconstruction is possible? 
+
+You may acquire this Quirk only if your character’s Theme is Guilt, and your Theme cannot be changed in any way as long as you have this Quirk. 
 
 Permanently increase your maximum Hit Points and maximum Mind Points by 5. 
 

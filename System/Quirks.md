@@ -9,43 +9,12 @@ Quirks are an **advanced optional rule** that provides strong thematic and mecha
 * If you use Quirks in your game, it is **strongly suggested** that each Player Character begins play with one. Additionally, no two characters in the same group should have identical Quirks.
 * On average, a group of Player Characters with access to Quirks will be able to tackle more challenging situations than what would be normal for their level.
 * If it makes sense in the story, a character may lose their current Quirk and gain a different one – discuss this with the group.
-
 ## Using Quirks in your Game
 Quirks should be seen as a mechanical and narrative reinforcement of your characters’ unique nature. Keep the following in mind:
  * **Quirks shape the game**. Even the less impactful Quirk is a powerful statement about your character and their role in the story. If you pick [[#Heirloom]], you don’t just get “a cool sword” – you get an item with implications. If you pick [[#Glorious Fate]], the prophecy will become a major part of the game. Quirks will take the already heroic Player Characters and kick them up a notch, which can be prove a bit overwhelming. Think carefully before you use them!
  * **Freedom of choice**. You don’t need a Quirk for your character concept to be valid. If your **Identity** is that of a **“Heroine from the Past”**, you shouldn’t feel forced to pick **From a Distant World** for that Identity to be relevant to the story.
  * **How to use Quirks**. These options should be used to bring interesting situations into play, to give your character unique issues and problems to confront, and to provide additional mechanical support for their Traits.
  * **How not to use Quirks**. These options should never be used to make your character stronger than the rest of the group, to steal the spotlight, or to bring sensitive topics that make others uncomfortable into play.
-
-#### Quirk Table
-
-| Quirk                      | Source | Take this if...                                                                            |
-| -------------------------- | ------ | ------------------------------------------------------------------------------------------ |
-| [[#Agitator]]              | TF     | ...you want to be close to the People and poke a stick in the eye of the Man               |
-| [[#Ancient Weapon]]        | NF     | ...you want want an especially unusual rare item, taken from the distant past.             |
-| [[#Cognitive Ghost]]       | TF     | ...you want to be like an straddle the line between the human world and the demonic world. |
-| [[#Cursed]]                | HF/NF  | ...you want more wump.                                                                     |
-| [[#Empty Hands]]           |        |                                                                                            |
-| [[#Enigmatic Relic]]       | TF     | ...you want a a truly bizzare relic                                                        |
-| [[#Fettered Heart]]        | HF     | ...you want to be bound to an Authority that's shaped your life.                           |
-| [[#Fugitive Experiment]]   | TF     | ...you were born in a secret lab instead of a natal ward.                                  |
-| [[#Glorious Fate]]         | HF     | ...you want to be bound by the Prophecy... or defy it.                                     |
-| [[#Heirloom]]              | HF     | ...you want to benefit from your generational wealth.                                      |
-| [[#Hundred Faces]]         | TF     | ...you'd like to have even more identity issues.                                           |
-| [[#Inventor Prodigy]]      | TF     | ...you want to wiz kid.                                                                    |
-| [[#Neo-Human]]             | TF     | ...you want to be better than human.                                                       |
-| [[#Planet Oracle]]         | TF     | ...you want to tune into the world.                                                        |
-| [[#Old Transport]]         | HF     | ...you need a set of wheels.                                                               |
-| [[#Repentant Enforcer]]    | TF     | ...you want to try being a good cop. Hah.                                                  |
-| [[#Revenant]]              | HF     | ...lead to the head wasn't enough to keep you down.                                        |
-| [[#Rival Prodigies]]       | HF     | ...you've stepped on the wrong person's toes.                                              |
-| [[#Stolen Transport]]      | TF     | .,.you need a set of wheels, no matter the cost.                                           |
-| [[#Stubborn Scion]]        | NF     | ...you want to benefit from generational wealth, but consistently                          |
-| [[#Survivor]]              | NF/TF  | ...you want more wump. Or to minmax,                                                       |
-| [[#Traveling Workshop]]    | NF     | ...you need a set of wheels, and also want to be a wiz kid.                                |
-| [[#Stubborn Skeptic]]      | HW     | ...you aren't buying this mumbo-jumbo.                                                     |
-| [[#(Un?)faithful Servant]] | HW     | ...your boss can't put on their trousers without your help                                 |
-
 #### Quirk List
 ---
 #### Agitator 

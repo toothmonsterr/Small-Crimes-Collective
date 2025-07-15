@@ -1,4 +1,4 @@
-[[Craft & Trade]] can be done with **materials**, which can be gained through session rewards, events, and downtime foraging. Each material come assigned with one or more **tags**, which correlate to the qualities you are able to craft into your equipment. Each tag is associated with a symbol.
+[[Crafting]] can be done with **materials**, which can be gained through session rewards, events, and downtime foraging. Each material come assigned with one or more **tags**, which correlate to the qualities you are able to craft into your equipment. Each tag is associated with a symbol.
 
 > [!info] Example
 > A **Smoldering Rock** gained from the volcanic ashes of the isle would perhaps have a 🔥 `fire` tag or a 👊`tough` tag, which you could use to give the `Restistance: Fire` quality to an accessory.
@@ -15,17 +15,17 @@ Each tag is associated with either an **effect**, **element**, or **rarity**. Th
 #### Effects
 Effects are tags that are associated with mechanical changes, ex. `🔺sharp` adding additional damage to a weapon. Materials should **always** have one of these tags.
 
-| 1d9 | Effect     | Associated Qualities                      |
-| --- | ---------- | ----------------------------------------- |
-| 1   | 🔺sharp    | Piercing, Weapon Up                       |
-| 2   | 🎯accurate | Accuracy Up, Spell Up                     |
-| 3   | 🔮arcane   | Magical, Magic Up                         |
-| 4   | 👊tough    | Swordbreaker, Resistance, Dual Resistance |
-| 5   | 🔳solid    | Antistatus, Bulwark                       |
-| 6   | 💠multi    | Multi, Damage Change                      |
-| 7   | 🪽pure     | Immunity, Perfect Health, Healing Up      |
-| 8   | 🔗stable   | Amulet, Omnishield, Vitality Up           |
-| 9   | ☣️rotten   | Status, Status Plus                       |
+| 1d9 | Effect     | Associated Customizations & Qualities                |
+| --- | ---------- | ---------------------------------------------------- |
+| 1   | 🔺sharp    | Powerful, Piercing, Weapon Up                        |
+| 2   | 🎯accurate | Accurate, Accuracy Up, Spell Up                      |
+| 3   | 🔮arcane   | Elemental, Magical, Magic Up                         |
+| 4   | 👊tough    | Swordbreaker, Resistance, Dual Resistance            |
+| 5   | 🔳solid    | Defense Boost, Antistatus, Bulwark                   |
+| 6   | 💠multi    | Quick, Multi, Damage Change                          |
+| 7   | 🪽pure     | Immunity, Perfect Health, Healing Up                 |
+| 8   | 🔗stable   | Magic Defense Boost, Amulet, Omnishield, Vitality Up |
+| 9   | ☣️rotten   | Status, Status Plus                                  |
 #### Elements
 Elements are tags associated with a damage type, ex. `⚡bolt`. These elements can also be correlated to a status effect, Dazed in the case of `⚡bolt`. A material lacking one of these tags is considered unattuned.
 

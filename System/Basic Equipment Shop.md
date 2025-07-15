@@ -33,10 +33,10 @@ Items with the symbol ✦ on them are **martial** items, requiring specific clas
 | **Steel Dagger**                                                                                                                                                        | 150 z  | 【DEX + INS】**+1** | 【HR + 4】 physical |
 | One-handed ◆ Melee ◆ No Quality.                                                                                                                                        |        |                   |                   |
 
-| # Firearm Weapons                                                                                                                                                        | # Cost | # Accuracy  | # Damage           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ----------- | ------------------ |
-| **Pistol** ✦                                                                                                                                                             | 250 z  | 【DEX + INS】 | 【HR + 8】 physical  |
-| One-handed ◆ Ranged ◆ No Quality.                                                                                                                                        |        |             |                    |
+| # Firearm Weapons                 | # Cost | # Accuracy  | # Damage          |
+| --------------------------------- | ------ | ----------- | ----------------- |
+| **Pistol** ✦                      | 250 z  | 【DEX + INS】 | 【HR + 8】 physical |
+| One-handed ◆ Ranged ◆ No Quality. |        |             |                   |
 
 |# Flail Weapons|# Cost|# Accuracy|# Damage|
 |---|---|---|---|

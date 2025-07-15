@@ -26,6 +26,6 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 ## WIP
 * [[Game Points]]
 * [[Projects]]
-* [[Craft & Trade]]
+* [[Crafting]]
 * [[Downtime]]
 * [[NPCs & Villains]]

@@ -63,13 +63,14 @@ Now it's time to submit your character. This is a collaborative process, so ther
 
 To start, create a post in the [character-profiles](https://discord.com/channels/1382793642871099392/1382793643974201573) channel with the following:
 
-* Name - the name or moniker of your character.
-* Pronouns - the character's pronouns of choice.
-* Origin - where the character is from, pre-established or of your own creation
-* Classes - the two to three classes you selected during creation
-* Sheet - a link to your Google sheet (make sure it's set to public) or Fultimator sheet 
-* About - Some history/profile/descriptions of your character, as brief or as long as you'd like.
-* Art (optional) - any character art you may want to use as reference.
+* Name -- the name or moniker of your character.
+* Pronouns -- the character's pronouns of choice.
+* Origin -- where the character is from, pre-established or of your own creation
+* Quirk (optional) -- if you took a quirk
+* Classes -- the two to three classes you selected during creation
+* Sheet -- a link to your Google sheet (make sure it's set to public) or Fultimator sheet 
+* About -- Some history/profile/descriptions of your character, as brief or as long as you'd like.
+* Art (optional) -- any character art you may want to use as reference.
 
 A GM will make a thread from your post to review it, discuss with you, and suggest changes as needed. These threads are public, and other players can view or make suggestions as well.
 

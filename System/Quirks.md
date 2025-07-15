@@ -170,7 +170,7 @@ When you acquire this Quirk, choose Dexterity, Insight, Might, or Willpower.
 
 When you join a conflict scene, you may choose one option: you increase that Attribute by one die size (up to a maximum of d12) or, if its base die size is d12, you treat it as having a current die size of d20 during Checks you perform (only during Checks, and regardless of status effects). The chosen effect lasts until the end of the scene. 
 
-When you choose one of the above options, the Game Master gains an opportunity which can be spent during the current scene or later, to showcase the unexpected collateral effects of your abilities (such as drawing the attention of a psy
+When you choose one of the above options, the Game Master gains an opportunity which can be spent during the current scene or later, to showcase the unexpected collateral effects of your abilities (such as drawing the attention of a psychic entity, alerting the authorities to your presence, or damaging the continuum).
 
 ---
 #### Old Transport 

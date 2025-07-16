@@ -4,7 +4,7 @@ tags:
   - game-master
   - player
 ---
-Sessions give out rewards to both players and GMs. The base rewards for the first 4 hours are as follows for each player in a session:
+Sessions give out rewards to both players and GMs. Every session will give [[Materials]], XP, and a zenit reward to players. The base rewards for the first 4 hours are as follows for each player in a session:
 
 | Tier      | Material Reward                 | Zenit Reward | XP Reward |
 | --------- | ------------------------------- | ------------ | --------- |

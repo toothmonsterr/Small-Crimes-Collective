@@ -10,7 +10,7 @@ Any player can make a **background** NPC. These are established through play -- 
 > [!info] Example
 > Background NPCs are simple to establish -- a bartender in a scene that takes the orders of the players is one example, as well as any number of character-specific family members, friends, or other smaller-scale relationships.
 ### Allies
-**Allies** are reoccurring NPCs in military, government, or [[Factions|established factions]] that are generally cooperative and helpful towards the player characters and their goals. These NPCs can be created by any [[Roleplay & Sessions#GM Rules|GM]].
+**Allies** are reoccurring NPCs in military, government, or [[Factions|established factions]] that are generally cooperative and helpful towards the player characters and their goals. These NPCs can be created by any [[Roleplay#GM Rules|GM]].
 
 > [!info] Example
 >  Allied NPCs can be considered **passive** -- they exist to further plot in convenient ways, ex. a political figure giving a group of players a specific request as the basis of a session, or a representative of a faction who exposits on said faction.

@@ -74,4 +74,4 @@ To start, create a post in the [character-profiles](https://discord.com/channels
 
 A GM will make a thread from your post to review it, discuss with you, and suggest changes as needed. These threads are public, and other players can view or make suggestions as well.
 
-Once you're approved by a GM, you can begin to play! Head over to [[Roleplay & Sessions]] for more information.
+Once you're approved by a GM, you can begin to play! Head over to [[Roleplay]] for more information.

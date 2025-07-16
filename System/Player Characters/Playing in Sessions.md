@@ -4,7 +4,7 @@ tags:
   - player
 image: /Images/session-banner.png
 ---
-Playing the game in Small Crimes Collective is done primarily through either [[roleplay]] or **sessions**, which are differentiated by whether or not there is a GM present.  Sessions are done with a GM running the game, usually with a larger amount of players, and at a specific time with all players present.
+Playing the game in Small Crimes Collective is done primarily through either [[Roleplay]] or **sessions**, which are differentiated by whether or not there is a GM present.  Sessions are done with a GM running the game, usually with a larger amount of players, and at a specific time with all players present.
 ## Session Rules
 Sessions are announced by GMs in the scheduling channel. Sessions should have a time listed, an expected duration, a title, and a short description. Sessions will be listed as either Voice or Play-by-Post (PBP) and may have a player tier restriction for balancing. As well, if any specific players are requested, they should be mentioned along with their character. If a specific VTT is required, it will be listed, and players are expected to be able to use said VTT when playing.
 

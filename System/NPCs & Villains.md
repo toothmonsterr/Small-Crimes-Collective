@@ -34,7 +34,7 @@ When established NPCs need their own statistics and abilities, they can be creat
 * Skills cannot come from [[Character Creation|Character]] classes, and must be picked from the list.
 * The Use Equipment Skill no longer exists. Humanoids have 4 free initial Skills, just like Monsters.
 
-You can use [Fultimator](https://fabula-ultima-helper.web.app/) to create NPCs using these rules as well.
+You can use [Fultimator](https://fabula-ultima-helper.web.app/) to create NPCs using these rules as well. If you design an NPC in this way, provide a link or the JSON data for others to use.
 
 ### NPC Template
 

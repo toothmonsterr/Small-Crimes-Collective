@@ -24,3 +24,4 @@ The world pf [[Enigmata]] is wide and vast. This list will be updated as more is
 * [[Erkodea]]
 * [[Adrias]]
 * [[The Holy Kingdom of Bave]]
+* [[Atlas]]

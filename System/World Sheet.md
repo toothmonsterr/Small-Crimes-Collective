@@ -35,10 +35,11 @@ Soon, outsiders begin to flock to the city seeking to do all of the dangerous th
 The flood of impulsive tourists leads to a surge in crime, and the city reacts. Groups of [[Agents of Chaos|bounty hunters]] form to capture and execute people outside of the city limits during the Angelic Nights, though they’re hardly innocent groups themselves.
 ____
 ## Known Countries, Kingdoms, and Nations
-* Twin Star Falls - The isle our story takes place.
-* [[Erkodea]] - A country of unending snow in the winter and unending sun in the summer, far to the north of the world.
-* [[Adrias]] - A newly independent nation once conquered by [[Ontus the Brave|Ontus]].
-* [[The Holy Kingdom of Bave]] - A nation obsessed with holy crusade.
+* Twin Star Falls -- The isle our story takes place.
+* [[Erkodea]] -- A country of unending snow in the winter and unending sun in the summer, far to the north of the world.
+* [[Adrias]] -- A newly independent nation once conquered by [[Ontus the Brave|Ontus]].
+* [[The Holy Kingdom of Bave]] -- A nation obsessed with holy crusade.
+* [[Atlas]] -- A nation prepared for anything.
 ____
 ## Mysteries & Enigmas
 * Much of the ocean is unexplored due to its massive stretch across the far horizon. Is there something on the other side?

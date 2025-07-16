@@ -38,14 +38,10 @@ Items with the symbol ✦ on them are **martial** items, requiring specific clas
 | **Pistol** ✦                      | 250 z  | 【DEX + INS】 | 【HR + 8】 physical |
 | One-handed ◆ Ranged ◆ No Quality. |        |             |                   |
 
-|# Flail Weapons|# Cost|# Accuracy|# Damage|
-|---|---|---|---|
-|**Chain Whip**|150 z|【DEX + DEX】|【HR + 8】 physical|
-|Two-handed ◆ Melee ◆ No Quality.|   |   |   |
-|**Bronze Flail**|150 z|【DEX + MIG】|【HR + 4】 physical|
-|One-handed ◆ Melee ◆ No Quality.|   |   |   |
-|**Demon's Lash**|250 z|【DEX + DEX】|【HR + 8】 fire|
-|Two-handed ◆ Melee ◆ No Quality.|   |   |   |
+| # Flail Weapons                  | # Cost | # Accuracy  | # Damage          |
+| -------------------------------- | ------ | ----------- | ----------------- |
+| **Chain Whip**                   | 150 z  | 【DEX + DEX】 | 【HR + 8】 physical |
+| Two-handed ◆ Melee ◆ No Quality. |        |             |                   |
 
 | # Heavy Weapons                                              | # Cost | # Accuracy  | # Damage           |
 | ------------------------------------------------------------ | ------ | ----------- | ------------------ |

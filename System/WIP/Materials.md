@@ -15,19 +15,19 @@ Each tag is associated with either an **effect**, **element**, or **rarity**. Th
 #### Effects
 Effects are tags that are associated with mechanical changes, ex. `🔺sharp` adding additional damage to a weapon. Materials should **always** have one of these tags.
 
-| 1d9 | Effect     | Associated Customizations & Qualities                |
-| --- | ---------- | ---------------------------------------------------- |
-| 1   | 🔺sharp    | Powerful, Piercing, Weapon Up                        |
-| 2   | 🎯accurate | Accurate, Accuracy Up, Spell Up                      |
-| 3   | 🔮arcane   | Elemental, Magical, Magic Up                         |
-| 4   | 👊tough    | Swordbreaker, Resistance, Dual Resistance            |
-| 5   | 🔳solid    | Defense Boost, Antistatus, Bulwark                   |
-| 6   | 💠multi    | Quick, Multi, Damage Change                          |
-| 7   | 🪽pure     | Immunity, Perfect Health, Healing Up                 |
-| 8   | 🔗stable   | Magic Defense Boost, Amulet, Omnishield, Vitality Up |
-| 9   | ☣️rotten   | Status, Status Plus                                  |
+| 1d9 | Effect     | Associated Customizations & Qualities            |
+| --- | ---------- | ------------------------------------------------ |
+| 1   | 🔺sharp    | Powerful, Piercing, Weapon Up                    |
+| 2   | 🎯accurate | Accurate, Accuracy Up, Spell Up                  |
+| 3   | 🔮arcane   | Elemental, Magical, Magic Up                     |
+| 4   | 👊tough    | Swordbreaker, Resistance, Dual Resistance        |
+| 5   | 🔳solid    | Defense Boost, Antistatus, Bulwark               |
+| 6   | 💠multi    | Quick, Multi, Damage Change                      |
+| 7   | 🪽pure     | Immunity, Perfect Health, Healing Up, Omnishield |
+| 8   | 🔗stable   | Magic Defense Boost, Amulet, Vitality Up         |
+| 9   | ☣️rotten   | Status, Status Plus                              |
 #### Elements
-Elements are tags associated with a damage type, ex. `⚡bolt`. These elements can also be correlated to a status effect, Dazed in the case of `⚡bolt`. A material lacking one of these tags is considered unattuned.
+Elements are tags associated with a damage type, ex. `⚡bolt`. These elements can also be correlated to a status effect, Dazed in the case of `⚡bolt`. A material lacking one of these tags is considered **unattuned**.
 
 | 1d8 | Element  | Associated Status |
 | --- | -------- | ----------------- |
@@ -40,7 +40,7 @@ Elements are tags associated with a damage type, ex. `⚡bolt`. These elements c
 | 7   | ☀️light  | +/- MP            |
 | 8   | 🍏poison | Poisoned          |
 #### Rarity
-Rarity tags are associated with the [[Player Progression#Player Tiers|player tier]] they are attributed to, such as `🌀strange` representing the second tier, levels 10-19.  A material lacking one of these tags is considered **common** or otherwise basic. A material will be assigned its rarity based on the session's tier appropriate reward.
+Rarity tags are associated with the [[Player Progression#Player Tiers|player tier]] they are attributed to, such as `🌀strange` representing the second tier, levels 10-19.  A material lacking one of these tags is considered **common** or otherwise **basic**. A material will be assigned its rarity based on the session's tier appropriate reward.
 
 | 1d6 | Rarity     | Associated Tier       | Zenit Worth    |
 | --- | ---------- | --------------------- | -------------- |
@@ -70,7 +70,7 @@ The formulas for each rarity are as follows:
 | ✨enigmatic | 1500 + 3d6      |
 | 🌠mythic   | 2000 + 3d6      |
 ### Material Generation
-These tables are to facilitate the creation of materials in leu of developing them ad-hoc. For example, rolling on a creature table based on the type(s) of creature(s) fought will provide you with a unique material related to the session. 
+These optional tables are to facilitate the creation of materials in leu of developing them ad-hoc. For example, rolling on a creature table based on the type(s) of creature(s) fought will provide you with a unique material related to the session. 
 #### Elemental Descriptors
 These are raw element descriptors, based on the core game's elemental damages.
 

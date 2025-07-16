@@ -14,6 +14,8 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 * [[Personages]]
 ## System Docs
 * [[Fabula Ultima]]
+* [[World Sheet]]  
+### Player Characters
 * [[Character Creation]]
 * [[Quirks]]
 * [[Basic Equipment Shop]]
@@ -21,12 +23,10 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 * [[Playing in Sessions]]
 * [[Session Log]]
 * [[Player Progression]]
+### Game Masters
 * [[Hooks]]
 * [[Game Masters]]
 * [[NPCs & Villains]]
-## Other Resources
-* [[World Sheet]]  
-* [[Twin Star Falls]]  
 ## WIP
 * [[Game Points]]
 * [[Projects]]

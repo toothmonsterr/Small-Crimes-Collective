@@ -24,3 +24,5 @@ For every **hour** past the **first four,** the rewards are as follows:
 
 > [!tip] Example
 > A tier 3 quest that lasted 6 hours would give out one ✨enigmatic material and two  🌀strange materials, as well as 1000 zenit and +7 XP.
+
+It is recommended GM's use the [[Materials#Material Generation|material generation tables]] when needed.

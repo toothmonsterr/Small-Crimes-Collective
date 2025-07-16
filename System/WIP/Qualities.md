@@ -2,6 +2,8 @@ Qualities are used in [[Crafting#Rare Equipment|rare equipment crafting]].
 
 The existing qualities are as follows, but more may be added in the future:
 
+The 🗡️ column designates the quality as available for weapons, the 🛡️ column for armor & shields, and the 💍 column for accessories.
+
 | Quality         | Rarity     | Material(s) Required | Description                                                                            | 🗡️ | 🛡️ | 💍  |
 | --------------- | ---------- | -------------------- | -------------------------------------------------------------------------------------- | --- | --- | --- |
 | Dangerous       | ❇️crafted  | 🔺sharp              | You may increase the weapon's damage by 4.                                             | ✔️  |     |     |

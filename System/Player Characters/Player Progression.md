@@ -9,7 +9,7 @@ There are a few primary ways to gain XP. The main ways are:
 * Playing in a session gains **+5 XP**, with an additional +5 XP for every two hours past the first four. For example, a 6 hour quest will grand +10 XP, and an 8 hour quest will grant +15 XP.
 * Spending Fabula Points (FP) gains **+1 XP** per FP spent.
 * A villain spending Ultima Points (UP) gains **+1 XP** per UP spent.
-* Writing a [[Session Log|session log]] gains **+1 XP** per session logged.
+* Writing a [[Playing in Sessions#Player Logs|Player Log]] gains **+1 XP** per session logged.
 * Invoking a [[Hooks|hook]] in a roleplay scene gains **+1 XP** per participant, once per scene.
 * Achieving specific server-wide roleplay objectives.
 ## Spending XP

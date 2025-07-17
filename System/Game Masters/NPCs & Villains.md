@@ -70,7 +70,7 @@ Villains are **strongly encouraged** to have an ongoing Clock associated with th
 * **Major Villains** should have Clocks with 8 to 10 sections. These clocks can  relate to [[Threats]] or [[The World of Enigmata#Known Countries, Kingdoms, and Nations|Nations]]. Their scope can be among the wider international world, but the focus of the villain's goal should still be achievable somewhere accessible by the player characters.
 * **Supreme Villains** should have Clocks with 10 to 12 sections. These clocks can relate to [[The World of Enigmata#Mysteries & Enigmas|Enigmas]] and [[Forces]], or any wider threads of reality. Their scope is the world at large, but the progress should minimally be able to be halted in sum or part by **any** player character.
 
-Villains should also have their appearances recorded. If they appear in a session, record it in the session's [[Session Log]] and link that log in the villain's profile thread. If they appear in an RP, this should also be linked in their thread.
+Villains should also have their appearances recorded. If they appear in a session, record it in the session's [[Playing in Sessions#GM Logs|log]] and link that log in the villain's profile thread. If they appear in an RP, this should also be linked in their thread.
 
 **If a villain achieves their goal,** they must have a new goal **or** be retired. The new goal must be recorded, and the clock associated with it should also be visible in their thread.
 

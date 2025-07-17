@@ -60,21 +60,6 @@ Rarity tags are associated with the [[Player Progression#Player Tiers|player tie
 Rarity tags are locked to their respective tiers of play and cannot be traded to lower tiers of players. 
 
 You can sell materials to other players for whatever price you haggle down to. It is recommended to use a base price of the zenit reward of the session the material was received in.
-
-If you opt to sell it to the **market**, i.e. to an NPC shop, you must roll for the amount you earn for selling the material. The basic formula is three d6 dice, with the first roll slotting into the hundreds digit, the second roll into the tens digit, and the last roll into the final digit. Each tier after **common** adds a flat +500z to the roll. This allows you to sell for potentially *more* than the material would traditionally be worth.
-
-> [!tip] Barter Roll
-> Rolling `3d6` results in a 4, a 5, and a 3, meaning the value of the item is **453 zenit.**
-
-The formulas for each rarity are as follows:
-
-| **Rarity** | **Barter Roll** |
-| ---------- | --------------- |
-| common     | 3d6             |
-| ❇️crafted  | 500 + 3d6       |
-| 🌀strange  | 1000 + 3d6      |
-| ✨enigmatic | 1500 + 3d6      |
-| 🌠mythic   | 2000 + 3d6      |
 ### Material Generation
 These optional tables are to facilitate the creation of materials in leu of developing them ad-hoc. For example, rolling on a creature table based on the type(s) of creature(s) fought will provide you with a unique material related to the session. 
 #### Elemental Descriptors

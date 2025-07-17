@@ -18,10 +18,9 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 ### Player Characters
 * [[Character Creation]]
 * [[Quirks]]
-* [[Basic Equipment Shop]]
+* [[Marketplace]]
 * [[Roleplay]]
 * [[Playing in Sessions]]
-* [[Session Log]]
 * [[Player Progression]]
 ### Game Masters
 * [[Hooks]]

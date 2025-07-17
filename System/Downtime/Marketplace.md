@@ -2,8 +2,13 @@
 tags:
   - system
   - player
-  - stub
 ---
+The following methods of replenishing your resources are available:
+
+| Resource             | Cost     | Description                                      |
+| -------------------- | -------- | ------------------------------------------------ |
+| Inventory Point (IP) | 10 zenit | Recharges a character's Inventory Points by one. |
+## Basic Equipment
 You can purchase basic equipment from the general shops about town. These items are always available and can be purchased between sessions using the zenit your character earns.
 
 Items with the symbol ✦ on them are **martial** items, requiring specific classes to equip.

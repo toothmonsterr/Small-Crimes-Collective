@@ -72,7 +72,7 @@ Rare equipment will never have more than a single Quality. The quality you're lo
 
 Qualities **cannot** be stacked, meaning you cannot benefit from the same quality twice.
 #### Weapons
-Rare weapons are based on either an existing [[Basic Equipment Shop|basic weapon]] or a custom weapon previously crafted. If its base is a martial ✦ weapon, or if its damage modifier is +10 or higher, it is classified as a martial ✦ weapon.
+Rare weapons are based on either an existing [[Marketplace|basic weapon]] or a custom weapon previously crafted. If its base is a martial ✦ weapon, or if its damage modifier is +10 or higher, it is classified as a martial ✦ weapon.
 
 Rare weapons have the following **free** allowances for changes:
 * A weapon can be changed from two-handed to one-handed if you *decrease* its damage by 4. Likewise, a weapon can be changed from one-handed to two-handed with an *increase* in damage by 4.
@@ -86,4 +86,5 @@ Accessories are always considered rare, as they have no basic equivalent, and on
 Some classes are able to **transmute** materials and equipment in order to change their effect, element, or quality.
 
 The rules for transmutation are as follows:
-* Material tags can be exchanged 
+* Material tags can be exchanged within their specified category. The exception is Rarity tags-- these can be downgraded to lower tiers, but cannot be upgraded to higher tiers.
+* Material tags cannot be added to an object that lacks them. Likewise, Materials with a 

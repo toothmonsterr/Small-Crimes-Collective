@@ -49,7 +49,7 @@ Set your core attributes with one of the following spreads.
 
 Assign these dice to your **Dexterity (DEX)**, **Insight (INS)**, **Might (MIG)**, and **Willpower (WLP)**.
 ### Step 4: Starting Equipment
-You can spend up to 500 zenit on basic equipment listed in the [[Basic Equipment Shop]]. You keep the zenit left over and will roll for how much additional you start with in the next step.
+You can spend up to 500 zenit on basic equipment listed in the [[Marketplace]]. You keep the zenit left over and will roll for how much additional you start with in the next step.
 ### Step 5: Starting Zenit
 To determine your starting Zenit, roll for it in the [rolls-log](https://discord.com/channels/1382793642871099392/1392976635195818164) channel. The roll needs to be marked by a character name or concept.
 

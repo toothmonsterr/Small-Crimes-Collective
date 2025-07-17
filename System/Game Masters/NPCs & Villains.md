@@ -24,11 +24,12 @@ Allies do not need to have [[NPCs & Villains#Profiles|profiles]]. There are a fe
 Villains are to have dimensions to them relevant to the world. It is recommended you attach your villain to a hook, an existing [[Factions|faction]], or any existing [[threats]]. As you establish them further, your villain's goals may form these hooks, factions, or threats in their own right.
 
 Villain rules are as follows:
-1. Villains must have statistics in the form of a visible [[NPCs & Villains#Profiles|profile]].
-2. Villains must have an actionable **goal**. These goals should be specific and actionable in ways player characters are able to subvert. These can (and should) be tied to clocks that are visible to the players in their play.
-3. Villains must have a planned arc. You should have a general idea of where the villain's story goes, even if you have multiple directions it could go in. You need to plant to use a villain in a **minimum of 3 sessions** for them to count as reoccurring.
-4. Try not to overlap -- don't step on others' toes if there is already a villain doing the thing you want your villain to do, or try to reconceptualize the concept to differentiate it.
-5. Villains must be documented. They can be logged in the [npc-profiles](https://discord.com/channels/1382793642871099392/1394808243704037436) channel and should follow the template pinned. Create a thread off of their profile post and use it to log any appearances, plot developments, and clocks.
+1. You must have a [[Lore Points#Villain Management|slot]] available.
+2. Villains must have statistics in the form of a visible [[NPCs & Villains#Profiles|profile]].
+3. Villains must have an actionable **goal**. These goals should be specific and actionable in ways player characters are able to subvert. These can (and should) be tied to clocks that are visible to the players in their play.
+4. Villains must have a planned arc. You should have a general idea of where the villain's story goes, even if you have multiple directions it could go in. You need to plan to use a villain in a **minimum of 3 sessions** for them to count as reoccurring.
+5. Try not to overlap -- don't step on others' toes if there is already a villain doing the thing you want your villain to do, at the minimum try to reconceptualize the idea to differentiate it.
+6. Villains must be documented. They can be logged in the [npc-profiles](https://discord.com/channels/1382793642871099392/1394808243704037436) channel and should follow the template pinned. Create a thread off of their profile post and use it to log any statistics, appearances, plot developments, and clocks.
 ## Profiles
 When established NPCs need their own statistics and abilities, they can be created with a profile. NPC profiles can be created using the rules in the Core Rulebook (page 302) with the following changes:
 * Skills cannot come from [[Character Creation|Character]] classes, and must be picked from the list.

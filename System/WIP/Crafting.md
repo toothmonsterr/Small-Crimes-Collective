@@ -18,7 +18,7 @@ Crafting can be done with the use of [[Materials]] and [[Downtime]]. Players can
 | Entropist    | Arcane Weapons              |
 | Floralist    | Able to Transmute           |
 | Fury         | Melee Weapons✦, Armor✦      |
-| Gourmet      | Cooking                     |
+| Gourmet      | Gourmet Projects            |
 | Guardian     | Armor✦, Shields✦            |
 | Invoker      | Able to Transmute           |
 | Loremaster   | N/A                         |
@@ -31,7 +31,7 @@ Crafting can be done with the use of [[Materials]] and [[Downtime]]. Players can
 | Sharpshooter | Ranged Weapons✦             |
 | Spiritist    | Arcane Weapons              |
 | Symbolist    | Accessories                 |
-| Tinkerer     | Anything, Projects          |
+| Tinkerer     | Anything, Tinker Projects   |
 | Wayfarer     | Accessories, Ranged Weapons |
 | Weaponmaster | Melee Weapons✦, Shields✦    |
 ## Creating Equipment
@@ -69,13 +69,15 @@ The available customization for weapons are in the following table.
 Rare equipment is any equipment with an added [[Qualities|Quality]], a specific boon or otherwise mechanical change applied to the equipment. Equipment is grouped into the categories of [[Crafting#Weapon Allowances|weapons]], [[Crafting#Armors & Shields|armor & shields]], and [[Crafting#Accessories|accessories]].
 
 Rare equipment will never have more than a single Quality. The quality you're looking to add to the equipment also defines the material you need to craft it with. The rarity of the material used will determines the equipment's rarity. You **cannot** use **more than two*** materials to craft a weapon, and each weapon will require 2-3 tags on the material(s) to craft, based on its quality and associated rarity.
-#### Weapon Allowances
+
+Qualities **cannot** be stacked, meaning you cannot benefit from the same quality twice.
+#### Weapons
 Rare weapons are based on either an existing [[Basic Equipment Shop|basic weapon]] or a custom weapon previously crafted. If its base is a martial ✦ weapon, or if its damage modifier is +10 or higher, it is classified as a martial ✦ weapon.
 
 Rare weapons have the following **free** allowances for changes:
 * A weapon can be changed from two-handed to one-handed if you *decrease* its damage by 4. Likewise, a weapon can be changed from one-handed to two-handed with an *increase* in damage by 4.
 	* Weapons from the brawling, dagger, and thrown categories cannot be two-handed.
-	* Customized weapons cannot be one-handed.
+	* Custom Weapons cannot be one-handed.
 #### Armors & Shields
 Rare armor is crafted based on existing basic equipment. If its base is considered martial ✦, so is its crafted variant.
 #### Accessories

@@ -41,4 +41,4 @@ GM's can also help with character approvals if they wish. The process for this i
 1. Checking the character sheets for anything that stands out as against server rules.
 2. Helping develop the character concept when requested or as needed.
 
-The [[Game Points|reward system]] for GM's is under development.
+The [[Lore Points|reward system]] for GM's is under development.

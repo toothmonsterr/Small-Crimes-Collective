@@ -1,7 +1,7 @@
 [[Crafting]] can be done with **materials**, which can be gained through session rewards, events, and downtime foraging. Each material come assigned with one or more **tags**, which correlate to the qualities you are able to craft into your equipment. Each tag is associated with a symbol.
 
 > [!info] Example
-> A **Smoldering Rock** gained from the volcanic ashes of the isle would perhaps have a 🔥 `fire` tag or a 👊`tough` tag, which you could use to give the `Restistance: Fire` quality to an accessory.
+> A **Smoldering Rock** gained from the volcanic ashes of the isle would perhaps have a 🔥 `fire` tag or a 👊`tough` tag, which you could use to give the `Resistance: Fire` quality to an accessory.
 
 Materials are situational, and will often be developed by a GM based on what makes sense for a session. For example, a session where the party fights a leviathan may provide a **Water-Logged Scale** `💀dark` `🌠mythic`.
 
@@ -24,20 +24,20 @@ Effects are tags that are associated with mechanical changes, ex. `🔺sharp` ad
 | 5   | 🔳solid    | Defense Boost, Antistatus, Bulwark               |
 | 6   | 💠multi    | Quick, Multi, Damage Change                      |
 | 7   | 🪽pure     | Immunity, Perfect Health, Healing Up, Omnishield |
-| 8   | 🔗stable   | Magic Defense Boost, Amulet, Vitality Up         |
+| 8   | 🔗stable   | , Magic Defense Boost, Amulet, Vitality Up       |
 | 9   | ☣️rotten   | Status, Status Plus                              |
 #### Elements
-Elements are tags associated with a damage type, ex. `⚡bolt`. These elements can also be correlated to a status effect, Dazed in the case of `⚡bolt`. A material lacking one of these tags is considered **unattuned**.
+Elements are tags associated with a damage type, ex. `⚡bolt`. These elements can also be correlated to a status effect, Dazed in the case of `☀️light`. A material lacking one of these tags is considered **unattuned**.
 
 | 1d8 | Element  | Associated Status |
 | --- | -------- | ----------------- |
 | 1   | 💨air    | +/- HP            |
-| 2   | ⚡bolt    | Dazed             |
+| 2   | ⚡bolt    | +/- MP            |
 | 3   | 💀dark   | Weak              |
 | 4   | 🪨earth  | Shaken            |
 | 5   | 🔥fire   | Enraged           |
 | 6   | ❄️ice    | Slow              |
-| 7   | ☀️light  | +/- MP            |
+| 7   | ☀️light  | Dazed             |
 | 8   | 🍏poison | Poisoned          |
 #### Rarity
 Rarity tags are associated with the [[Player Progression#Player Tiers|player tier]] they are attributed to, such as `🌀strange` representing the second tier, levels 10-19.  A material lacking one of these tags is considered **common** or otherwise **basic**. A material will be assigned its rarity based on the session's tier appropriate reward.
@@ -84,7 +84,7 @@ These are raw element descriptors, based on the core game's elemental damages.
 | 6   | Light💨    | Yellow⚡        | Spectral💀  | Sandy🪨   | Stinging🔥   | Pale❄️        | Transparent☀️ | Violet🍏    |
 
 #### Effect Descriptors
-These are raw effect descriptors, based on the 
+These are raw effect descriptors, based on the above effect tags. Use these when giving players specifically requested effects, alternatively you can use this table by rolling a 1d9 and choosing the associated column, then rolling the 1d10 for the row.
 
 | 1d10 | Sharp      | Accurate     | Arcane      | Tough            | Solid        | Multi       | Pure        | Stable     | Rotten       |
 | ---- | ---------- | ------------ | ----------- | ---------------- | ------------ | ----------- | ----------- | ---------- | ------------ |

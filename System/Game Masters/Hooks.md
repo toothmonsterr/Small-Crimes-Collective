@@ -14,5 +14,5 @@ Hooks, when utilized, can be rewarding to players in multiple ways.
 * Spending a Fabula Point to invoke or create a hook in a session grants an additional **+1 XP** per Fabula Point.
 
 For GM's, creating hooks that players utilize can give you rewards as well.
-* If your hook is used to develop a character's background or any of their core traits, you gain +5 [[Game Points|GP]].
+* If your hook is used to develop a character's background or any of their core traits, you gain +5 [[Lore Points|GP]].
 * If a player invokes a hook you created in one of your sessions, you gain +1 Ultima Point for the session.

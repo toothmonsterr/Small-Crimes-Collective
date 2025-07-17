@@ -28,7 +28,7 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 * [[Game Masters]]
 * [[NPCs & Villains]]
 ## WIP
-* [[Game Points]]
+* [[Lore Points]]
 * [[Projects]]
 * [[Crafting]]
 * [[Materials]]

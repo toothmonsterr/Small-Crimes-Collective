@@ -4,9 +4,11 @@ tags:
   - system
   - hub
 image: /Images/ocean2d.png
+aliases:
+  - Enigmata
 ---
-## The World of [[Enigmata]]
-This world's structure is a broken up pangea of large isles atop a mass of ocean. Speckled volcanic isles exist outside the main pangea, including the isle of [[Twin Star Falls]], where our story takes place.
+
+A broken up pangea of large isles atop a mass of ocean. Speckled volcanic isles exist outside the main pangea, including the isle of [[Twin Star Falls]], where our story takes place.
 ___
 ## Technology & Magic
 Technology and Magic exist hand-in-hand in the world of Enigmata-- one does not exist without the other. Technology acts a tool to use magic-- [[Electricity|electricity]] comes from harnessing the [[The Weave|weave]] as much as it comes from copper [[Conduit|conduits]].

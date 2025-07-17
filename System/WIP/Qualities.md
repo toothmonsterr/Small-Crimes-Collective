@@ -1,8 +1,21 @@
-Qualities are used in [[Crafting#Rare Equipment|rare equipment crafting]].
+---
+tags:
+  - system
+  - player
+---
+Qualities are used in [[Crafting#Rare Equipment|rare equipment crafting]]. A piece of equipment may only have **one** quality, regardless of rarity.
 
-The existing qualities are as follows, but more may be added in the future:
+As well, when a character has qualities on equipment with the same name or effect, their effects will never stack or combine. This rule effects the following:
+- Variants of the same quality, such as Resistance (Fire) and Resistance (Cold) will not combine **unless** they are listed specifically as separate qualities, ex. ;
+- Multiple qualities that increase Defense or Magic Defense will never stack;
+- Multiple qualities that give extra damage may never affect the same instance of damage;
+- Multiple qualities that increase the recovery of Hit Points, Mind Points or Inventory Points will never stack;
+- Multiple Qualities that increase bonuses for Accuracy Checks or Magic Checks may never affect the same check.
+- Multiple Qualities that halve or multiply the same value (such as the MP cost of a spell). For example, a spell could not benefit from the Memorize and Momentum Thief qualities to quarter its total MP cost.
+## Approved Qualities
+The following table has all the approved qualities you may add to your rare equipment. More may be added in the future.
 
-The 🗡️ column designates the quality as available for weapons, the 🛡️ column for armor & shields, and the 💍 column for accessories.
+> [!tip] The 🗡️ column designates the quality as available for weapons, the 🛡️ column for armor & shields, and the 💍 column for accessories.
 
 | Quality         | Rarity     | Material(s) Required | Description                                                                            | 🗡️ | 🛡️ | 💍  |
 | --------------- | ---------- | -------------------- | -------------------------------------------------------------------------------------- | --- | --- | --- |

@@ -14,7 +14,7 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 * [[Personages]]
 ## System Docs
 * [[Fabula Ultima]]
-* [[World Sheet]]  
+* [[The World of Enigmata]]  
 ### Player Characters
 * [[Character Creation]]
 * [[Quirks]]

@@ -81,4 +81,9 @@ Rare weapons have the following **free** allowances for changes:
 #### Armors & Shields
 Rare armor is crafted based on existing basic equipment. If its base is considered martial ✦, so is its crafted variant.
 #### Accessories
-Accessories are always considered rare, and one can only equip one accessory at a time.
+Accessories are always considered rare, as they have no basic equivalent, and one can only equip one accessory at a time.
+## Transmutation
+Some classes are able to **transmute** materials and equipment in order to change their effect, element, or quality.
+
+The rules for transmutation are as follows:
+* Material tags can be exchanged 

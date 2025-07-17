@@ -31,7 +31,7 @@ For every **hour** past the **first four,** the rewards are as follows:
 It is recommended GM's use the [[Materials#Material Generation|material generation tables]] when needed.
 
 Sessions will always have the minimum reward of the first four hours.
-### GM Session Rewards
+### GM Rewards
 [[Game Masters]] receive rewards for each session they GM in the form of [[Lore Points]] (LP), which can be spent on a variety of narrative progression options, as well as rewards for your player character.
 
 The base GM reward for the first 4 hours of play is **2 LP.** Every hour past the first four provides an additional 1 LP. The above example of a 6 hour session would provide 4 LP.

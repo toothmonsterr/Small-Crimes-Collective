@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1997a77bda42c39f",
+        "id": "900f2b785d4467ec",
         "type": "tabs",
         "children": [
           {
-            "id": "03af6da183ec8e74",
+            "id": "24d16c46993333fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Small Crimes Collective/Lore/Events/Deathless Era.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Deathless Era"
+              "title": "New tab"
             }
           }
         ]
@@ -168,15 +164,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03af6da183ec8e74",
+  "active": "fd9102a492f786cf",
   "lastOpenFiles": [
-    "Small Crimes Collective/Lore/Factions/Agents of Chaos.md",
-    "Small Crimes Collective/Lore/Events/Tick Tock.md",
-    "Small Crimes Collective/Lore/Events/The Pearl Riots.md",
-    "Small Crimes Collective/Lore/Events/The Night Watches.md",
-    "Small Crimes Collective/Lore/Events/Less Reliable.md",
-    "Small Crimes Collective/Lore/Events/First Death of Anatoly the Begotten.md",
-    "Small Crimes Collective/Lore/Events/Destruction of Grief.md",
-    "Small Crimes Collective/Lore/Events/Deathless Era.md"
+    "Small Crimes Collective/Lore/Locations/Waterside Boulevard.md",
+    "Small Crimes Collective/Lore/Locations/Twin Star Falls.md",
+    "Small Crimes Collective/Lore/Locations/The Warf.md",
+    "Small Crimes Collective/Lore/Locations/The Sternquarter.md",
+    "Small Crimes Collective/Lore/Locations/The Last Stop.md",
+    "Small Crimes Collective/Lore/Locations/The Gray Route.md",
+    "Small Crimes Collective/Lore/Locations/Kingscourt.md",
+    "Small Crimes Collective/Lore/Locations/Financial District.md",
+    "Small Crimes Collective/Lore/Locations/Ancient Civilization Under the Volcanic Ash.md",
+    "Small Crimes Collective/Lore/Locations/Abundant Land.md",
+    "Small Crimes Collective/Lore/Personages/Spanner, Inventor of the Light.md",
+    "Small Crimes Collective/Lore/Personages/Ontus the Brave.md",
+    "Small Crimes Collective/Lore/Personages/Nikolai Drakonov.md",
+    "Small Crimes Collective/Lore/Personages/Mrs. White.md",
+    "Small Crimes Collective/Lore/Personages/Anatoly, the First Begotten.md",
+    "Small Crimes Collective/Lore/Forces/The Weave.md",
+    "Small Crimes Collective/Lore/Forces/The Light.md",
+    "Small Crimes Collective/Lore/Forces/Technology.md",
+    "Small Crimes Collective/Lore/Forces/Oddities.md",
+    "Small Crimes Collective/Lore/Forces/Magic.md",
+    "Small Crimes Collective/Lore/Forces/Liminal Ventures.md",
+    "Small Crimes Collective/Lore/Forces/Ghosts.md",
+    "Small Crimes Collective/Lore/Forces/Eyes.md",
+    "Small Crimes Collective/Lore/Forces/Electricity.md",
+    "Small Crimes Collective/Lore/Forces/Death Suspension and Regeneration.md",
+    "Small Crimes Collective/Lore/Forces/Conduit.md",
+    "Small Crimes Collective/Lore/Locations",
+    "Small Crimes Collective/Lore/Timeline.canvas",
+    "Small Crimes Collective/Lore/Personages",
+    "Small Crimes Collective/Lore/Forces",
+    "Small Crimes Collective/Lore/Factions",
+    "Small Crimes Collective/Lore/Events",
+    "Small Crimes Collective/Lore",
+    "System/WIP",
+    "System/Player Characters",
+    "System/Game Masters",
+    "System",
+    "Images/system-banner.png",
+    "Images/session-banner.png",
+    "Images/rules-banner.png",
+    "Images/roleplay-banner.png",
+    "Images/SCC-banner.png",
+    "Images/Resources.png",
+    "Images/ocean2d_xl.png",
+    "Images/ocean2d.png",
+    "Images/GM-banner.png",
+    "Images/city-map.jpg"
   ]
 }

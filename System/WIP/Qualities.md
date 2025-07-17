@@ -6,10 +6,10 @@ The 🗡️ column designates the quality as available for weapons, the 🛡️ 
 
 | Quality         | Rarity     | Material(s) Required | Description                                                                            | 🗡️ | 🛡️ | 💍  |
 | --------------- | ---------- | -------------------- | -------------------------------------------------------------------------------------- | --- | --- | --- |
-| Dangerous       | ❇️crafted  | 🔺sharp              | You may increase the weapon's damage by 4.                                             | ✔️  |     |     |
-| Anitistatus     | ❇️crafted  | 🔳solid + element    | You are immune to a single status effect.                                              | ✔️  | ✔️  | ✔️  |
-| Resistance      | ❇️crafted  | 👊tough + element    | You have Resistance to a single damage type (not physical damage).                     | ✔️  | ✔️  | ✔️  |
 | Amulet          | ❇️crafted  | 🔗stable             | You gain a +1 bonus to Magic Defense.                                                  | ✔️  |     | ✔️  |
+| Anitistatus     | ❇️crafted  | 🔳solid + element    | You are immune to a single status effect.                                              | ✔️  | ✔️  | ✔️  |
+| Dangerous       | ❇️crafted  | 🔺sharp              | You may increase the weapon's damage by 4.                                             | ✔️  |     |     |
+| Resistance      | ❇️crafted  | 👊tough + element    | You have Resistance to a single damage type (not physical damage).                     | ✔️  | ✔️  | ✔️  |
 | Bulwark         | ❇️crafted  | 🔳solid              | You gain a +1 bonus to Defense.                                                        | ✔️  |     | ✔️  |
 | Dual Resistance | 🌀strange  | 👊tough + 2 elements | You have Resistance to two damage types (not physical damage).                         | ✔️  | ✔️  | ✔️  |
 | Swordbreaker    | 🌀strange  | 👊tough              | You have Resistance to physical damage.                                                | ✔️  | ✔️  | ✔️  |
@@ -19,7 +19,7 @@ The 🗡️ column designates the quality as available for weapons, the 🛡️ 
 | Magical         | ❇️crafted  | 🔮arcane             | The weapon targets Magic Defense instead of Defense                                    | ✔️  |     |     |
 | Piercing        | ❇️crafted  | 🔺sharp              | Damage dealt by the weapon ignores Resistances                                         | ✔️  |     |     |
 | Multi           | 🌀strange  | 💠multi              | Attacks with the weapon have multi (2).                                                | ✔️  |     |     |
-| Status          | ✨enigmatic | ☣️rotten + 1 element | Each target hit by the weapon suffers (choose one: dazed, shaken, slow, weak).         | ✔️  |     |     |
+| Status          | ✨enigmatic | ☣️rotten + element   | Each target hit by the weapon suffers (choose one: dazed, shaken, slow, weak).         | ✔️  |     |     |
 | Status Plus     | 🌠mythic   | ☣️rotten + element   | Each target hit by the weapon suffers (choose one: enraged, poisoned).                 | ✔️  |     |     |
 | Accuracy Up     | 🌀strange  | 🎯accurate           | You may add a +1 bonus to the weapon's Accuracy Check.                                 | ✔️  | ✔️  | ✔️  |
 | Magic Up        | 🌀strange  | 🔮arcane             | You gain a +1 bonus to your Magic Checks.                                              |     | ✔️  | ✔️  |

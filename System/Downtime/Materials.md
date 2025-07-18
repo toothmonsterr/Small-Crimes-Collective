@@ -7,19 +7,19 @@ tags:
 [[Crafting]] can be done with **materials**, which can be gained through session rewards, events, and downtime foraging. Each material come assigned with one or more **tags**, which correlate to the qualities you are able to craft into your equipment. Each tag is associated with a symbol.
 
 > [!info] Example
-> A **Smoldering Rock** gained from the volcanic ashes of the isle would perhaps have a 🔥 `fire` tag or a 👊`tough` tag, which you could use to give the `Resistance: Fire` quality to an accessory.
+> A **Smoldering Rock** gained from the volcanic ashes of the isle would perhaps have a **🔥fire** tag or a **👊tough** tag, which you could use to give the **Resistance: Fire** quality to an accessory.
 
-Materials are situational, and will often be developed by a GM based on what makes sense for a session. For example, a session where the party fights a leviathan may provide a **Water-Logged Scale** `💀dark` `🌠mythic`.
+Materials are situational, and will often be developed by a GM based on what makes sense for a session. For example, a session where the party fights a leviathan may provide a **Water-Logged Scale** **💀dark** **🌠mythic**.
 
 GMs are also able to roll on the [[#Material Generation]] tables when deciding on their session rewards.
 
 Each tag is associated with either an **effect**, **element**, or **rarity**. These categories can be mixed and matched, but a single material **cannot** have more than **one** tag from **each** category. 
 
 > [!info] Example
-> A **Mysterious Orb** can be `🔮arcane` + `☀️light` + `🌠mythic`, but it **cannot** be both `🪽pure` and `🔮arcane` effects. Similarly, the material **cannot** have both `☀️light` and `💀dark`, only one or the other element.
+> A **Mysterious Orb** can be **🔮arcane** + **☀️light** + **🌠mythic**, but it **cannot** be both **🪽pure** and **🔮arcane** effects. Similarly, the material **cannot** have both **☀️light** and **💀dark**, only one or the other element.
 ### Material Tags
 #### Effects
-Effects are tags that are associated with mechanical changes, ex. `🔺sharp` adding additional damage to a weapon. Materials should **always** have one of these tags.
+Effects are tags that are associated with mechanical changes, ex. **🔺sharp** adding additional damage to a weapon. Materials should **always** have one of these tags.
 
 | 1d9 | Effect     | Associated Customizations & Qualities            |
 | --- | ---------- | ------------------------------------------------ |
@@ -33,7 +33,7 @@ Effects are tags that are associated with mechanical changes, ex. `🔺sharp` ad
 | 8   | 🔗stable   | , Magic Defense Boost, Amulet, Vitality Up       |
 | 9   | ☣️rotten   | Status, Status Plus                              |
 #### Elements
-Elements are tags associated with a damage type, ex. `⚡bolt`. These elements can also be correlated to a status effect, Dazed in the case of `☀️light`. A material lacking one of these tags is considered **unattuned**.
+Elements are tags associated with a damage type, ex. **⚡bolt**. These elements can also be correlated to a status effect, Dazed in the case of **☀️light**. A material lacking one of these tags is considered **unattuned**.
 
 | 1d8 | Element  | Associated Status |
 | --- | -------- | ----------------- |

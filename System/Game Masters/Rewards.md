@@ -30,7 +30,8 @@ For every **hour** past the **first four,** the rewards are as follows:
 
 It is recommended GM's use the [[Materials#Material Generation|material generation tables]] when needed.
 
-Sessions will always have the minimum reward of the first four hours.
+Players will also receive XP for every Fabula Point spent, divided by the number of players in the session. As well, every Ultima Point spent by a villain gains +1 XP to each player in the session.
+
 ### GM Rewards
 [[Game Masters]] receive rewards for each session they GM in the form of [[Lore Points]] (LP), which can be spent on a variety of narrative progression options, as well as rewards for your player character.
 

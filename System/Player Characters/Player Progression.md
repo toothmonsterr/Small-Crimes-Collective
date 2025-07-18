@@ -6,8 +6,8 @@ tags:
 Progression in Small Crimes Collective is done through collection of experience points (XP). XP points can be gained through a number of ways, described below. Characters can spend their accumulated XP on a variety of things, including leveling up.
 ## Gaining XP
 There are a few primary ways to gain XP. The main ways are:
-* Playing in a session gains **+5 XP**, with an additional +5 XP for every two hours past the first four. For example, a 6 hour quest will grand +10 XP, and an 8 hour quest will grant +15 XP.
-* Spending Fabula Points (FP) gains **+1 XP** per FP spent.
+* Playing in a session gains **+5 XP**, with an additional +1 XP for every hour past the first four. For example, a 6 hour quest will grand +7 XP, and an 8 hour quest will grant +9 XP.
+* Spending Fabula Points (FP) in sessions gains XP for every point spent in a session, divided by the number of players.
 * A villain spending Ultima Points (UP) gains **+1 XP** per UP spent.
 * Writing a [[Playing in Sessions#Player Logs|Player Log]] gains **+1 XP** per session logged.
 * Invoking a [[Hooks|hook]] in a roleplay scene gains **+1 XP** per participant, once per scene.

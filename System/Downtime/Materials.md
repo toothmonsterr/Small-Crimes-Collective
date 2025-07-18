@@ -48,14 +48,14 @@ Elements are tags associated with a damage type, ex. **⚡bolt**. These elements
 #### Rarity
 Rarity tags are associated with the [[Player Progression#Player Tiers|player tier]] they are attributed to, such as `🌀strange` representing the second tier, levels 10-19.  A material lacking one of these tags is considered **common** or otherwise **basic**. A material will be assigned its rarity based on the session's tier appropriate reward.
 
-| 1d6 | Rarity     | Associated Tier       | Zenit Worth    | [[Downtime\|EP]] Cost |
-| --- | ---------- | --------------------- | -------------- | --------------------- |
-| 1   | common     | N/A                   | Under 499z     | 1                     |
-| 2   | ❇️crafted  | Tier 1 (Levels 5-9)   | 500z to 999z   | 2                     |
-| 3   | 🌀strange  | Tier 2 (Levels 10-19) | 1000z to 1499z | 4                     |
-| 4   | ✨enigmatic | Tier 3 (Levels 20-29) | 1500z to 1999z | 6                     |
-| 5   | 🌠mythic   | Tier 4 (Levels 30+)   | Over 2000z     | 8                     |
-| 6   | 📕artifact | N/A                   | Priceless      | N/A                   |
+| 1d6 | Rarity     | Associated Tier       | Zenit Worth    | [[Downtime#Progressing the Clock\|Clock]] Segments |
+| --- | ---------- | --------------------- | -------------- | -------------------------------------------------- |
+| 1   | common     | N/A                   | Under 499z     | 1                                                  |
+| 2   | ❇️crafted  | Tier 1 (Levels 5-9)   | 500z to 999z   | 2                                                  |
+| 3   | 🌀strange  | Tier 2 (Levels 10-19) | 1000z to 1499z | 4                                                  |
+| 4   | ✨enigmatic | Tier 3 (Levels 20-29) | 1500z to 1999z | 6                                                  |
+| 5   | 🌠mythic   | Tier 4 (Levels 30+)   | Over 2000z     | 8                                                  |
+| 6   | 📕artifact | N/A                   | Priceless      | N/A                                                |
 ##### Trading Rare Materials
 Rarity tags are locked to their respective tiers of play and cannot be traded to lower tiers of players. 
 

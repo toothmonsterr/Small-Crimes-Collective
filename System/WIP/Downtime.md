@@ -43,6 +43,7 @@ Gains: [+1 Fabula Point|Cooking|Etc]
 
 ### Transmutation
 
+
 ## Progress Actions
 **Progress** actions require the use of a currency known as **Echo Points** (EP). All characters start with **4** EP, and more are gained on a weekly basis. Characters gain **2** EP at the start of every Saturday (midnight EST), and can have a **maximum** of **8** EP.
 
@@ -57,7 +58,7 @@ To start a Progress action,
 ### Progressing the Clock
 Progress actions are almost always associated with a Clock. Progressing the clock **requires** spending EP to progress it. The exchange rate is generally 1 EP per tick on the clock.
 
-Other players, provided they share a prerequisite class for the task at hand, can help progress preexisting clocks. Any player can spend 1 EP to progress a tick on any progress action clock, provided they have discussed it with the clock's owner.
+Other players, as long as they share a prerequisite class for the task at hand (ex. a Weaponmaster & a Commander), can help progress preexisting clocks provided they have discussed it with the clock's owner. The exchange rate remains 1 EP per tick, but from the other player's EP pool.
 
 In some circumstances, such as difficult projects or world-changing artifacts, progressing the clock may also require a successful check. When present, failing this check can cause complications to the action or even reverse the clock. 
 ### Equipment Crafting
@@ -77,6 +78,8 @@ Crafting does not require checks to progress clocks.
 
 ### Gourmet Projects
 
+
 ### Retraining
+
 
 ### Research

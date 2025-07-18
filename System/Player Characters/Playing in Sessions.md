@@ -23,7 +23,7 @@ The rules for playing in a session are as follows:
 ### Rewards
 Sessions reward XP, with a bare minimum of +5 XP per session.
 * Every player in a session gains **+5 XP** for any session 4 hours or less, with an additional +1 XP for every hour past the first 4.
-* A player spending a Fabula Point grants **+1 XP** for **that player and that player only.**
+* Players spending Fabula Points grant +1 XP every Fabula Point spent, divided by the number of players in the session.
 * A [[NPCs & Villains#Villains|villain]] appearing grants +1 XP for **each player in the session.**
 * A villain spending Ultima Points grants +1 XP to  **each player in the session.**
 

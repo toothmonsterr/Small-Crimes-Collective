@@ -133,8 +133,19 @@ Material can be used to lessen zenit costs. The reduction of zenit is based on t
 
 > [!info] Example
 > A project with **Major** potency, **Small** effect, and a **single** use would cost 800 zenit and a 5 EP with a 5-section clock.
+
+You will log your project with the following template:
+```
+Character [Character Name]
+Action: Starting a Project
+Description: [Short description of the project]
+Cost: [Zenit]
+Clock: 0/[EP Cost]
+```
+
+Similarly to crafting, create your clock within a thread branching off of the above post. Track the EP you spend here.
 #### Tinkerer Projects
-If you have the Visionary skill, your zenit costs are 【SL × 100】 cheaper. You get 【SL】 progress on the clock at the start of the project.
+If you have the Visionary skill, your zenit costs are 【SL × 100】 cheaper. You get 【SL】 progress on the clock at the start of the project without the need to spend EP.
 #### Gourmet Projects
 The Gourmet class also allows for the completion of projects, with the caveat they are always **consumable**, meaning they are one-time use. Their area of effect is based on the number and type of creatures you need to nourish.
 ### Retraining

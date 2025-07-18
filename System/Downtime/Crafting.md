@@ -83,8 +83,4 @@ Rare armor is crafted based on existing basic equipment. If its base is consider
 #### Accessories
 Accessories are always considered rare, as they have no basic equivalent, and one can only equip one accessory at a time.
 ## Transmutation
-Some classes are able to **transmute** materials and equipment in order to change their effect, element, or quality.
-
-The rules for transmutation are as follows:
-* Material tags can be exchanged within their specified category. The exception is Rarity tags-- these can be downgraded to lower tiers, but cannot be upgraded to higher tiers.
-* Material tags cannot be added to an object that lacks them. Likewise, Materials with a 
+TBD.

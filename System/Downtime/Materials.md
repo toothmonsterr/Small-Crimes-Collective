@@ -4,7 +4,7 @@ tags:
   - player
   - game-master
 ---
-[[Crafting]] can be done with **materials**, which can be gained through session rewards, events, and downtime foraging. Each material come assigned with one or more **tags**, which correlate to the qualities you are able to craft into your equipment. Each tag is associated with a symbol.
+**Materials**, which can be gained through session rewards, events, and downtime foraging, is most often used to craft equipment. Each material come assigned with one or more **tags**, which correlate to the customizations and qualities you are able to craft into your equipment. Each tag is associated with a symbol.
 
 > [!info] Example
 > A **Smoldering Rock** gained from the volcanic ashes of the isle would perhaps have a **🔥fire** tag or a **👊tough** tag, which you could use to give the **Resistance: Fire** quality to an accessory.

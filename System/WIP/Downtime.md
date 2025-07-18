@@ -47,8 +47,8 @@ TBD.
 
 Progress actions currently available are as follows:
 * [[Crafting#Creating Equipment|Creating Equipment]] through crafting
-* Tinkerer Projects
-* Gourmet Projects
+* Projects
+* Rituals
 * Retraining
 * Research
 
@@ -111,9 +111,9 @@ Projects have elements to them that establish their potency, area of effect, and
 | Area       | Zenit Multiplier | Additional EP cost | The effects of the invention may effect...                                                             |
 | ---------- | ---------------- | ------------------ | ------------------------------------------------------------------------------------------------------ |
 | Individual | x1               | 0                  | A human-sized creature, a door, a tree, or a weapon.                                                   |
-| Small      | x2               | +1                 | A group of human-sized creatures, a large creature, a small clearing, a room, a railway car, or a hut. |
-| Large      | x3               | +2                 | A crowd, a small forest, an airship or galleon, a castle hall, a house, or a giant creature.           |
-| Huge       | x4               | +4                 | A fortress, a lake, the top of a mountain, a village, or a city block.                                 |
+| Small      | x2               | +2                 | A group of human-sized creatures, a large creature, a small clearing, a room, a railway car, or a hut. |
+| Large      | x3               | +4                 | A crowd, a small forest, an airship or galleon, a castle hall, a house, or a giant creature.           |
+| Huge       | x4               | +6                 | A fortress, a lake, the top of a mountain, a village, or a city block.                                 |
 
 | Uses       | Zenit Multiplier | EP multiplier | Once activated, the invention can...                                        |
 | ---------- | ---------------- | ------------- | --------------------------------------------------------------------------- |
@@ -148,6 +148,8 @@ Similarly to crafting, create your clock within a thread branching off of the ab
 If you have the Visionary skill, your zenit costs are 【SL × 100】 cheaper. You get 【SL】 progress on the clock at the start of the project without the need to spend EP.
 #### Gourmet Projects
 The Gourmet class also allows for the completion of projects, with the caveat they are always **consumable**, meaning they are one-time use. Their area of effect is based on the number and type of creatures you need to nourish.
+### Rituals
+TBD.
 ### Retraining
 TBD.
 ### Research

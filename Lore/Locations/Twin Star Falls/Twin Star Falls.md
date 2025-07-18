@@ -1,6 +1,7 @@
 ---
 tags:
   - locations
+  - lore
 aliases:
   - Angel City
   - The City

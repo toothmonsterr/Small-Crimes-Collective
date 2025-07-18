@@ -1,0 +1,6 @@
+---
+tags:
+  - magic
+  - stub
+  - lore
+---

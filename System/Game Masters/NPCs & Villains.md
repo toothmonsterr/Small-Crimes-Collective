@@ -4,7 +4,6 @@ tags:
   - game-master
 ---
 Non-player characters (NPCs) are any characters that influences the story that are not [[Character Creation|player characters]]. NPCs can range from a background character in a roleplay scene to a major villain in an overarching plot. There are three categories of NPCs: **Background**, **Allied**, and **Villain.**
-
 ## Profiles
 When established NPCs need their own statistics and abilities, they can be created with a profile. NPC profiles can be created using the rules in the Core Rulebook (page 302) with the following changes:
 * Skills cannot come from [[Character Creation|Character]] classes, and must be picked from the list.

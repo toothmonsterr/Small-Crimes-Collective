@@ -4,7 +4,6 @@ tags:
   - game-master
 ---
 Non-player characters (NPCs) are any characters that influences the story that are not [[Character Creation|player characters]]. NPCs can range from a background character in a roleplay scene to a major villain in an overarching plot. There are three categories of NPCs: **Background**, **Allied**, and **Villain.**
-
 ## Profiles
 When established NPCs need their own statistics and abilities, they can be created with a profile. NPC profiles can be created using the rules in the Core Rulebook (page 302) with the following changes:
 * Skills cannot come from [[Character Creation|Character]] classes, and must be picked from the list.
@@ -39,7 +38,7 @@ Allies do not need to have [[NPCs & Villains#Profiles|profiles]]. There are a fe
 
 Villains are to have dimensions to them relevant to the world. It is recommended you attach your villain to a hook, an existing [[Factions|faction]], or any existing [[threats]]. As you establish them further, your villain's goals may form these hooks, factions, or threats in their own right.
 
-Villains require having an available **villain slot** that they occupy. Each GM starts with **one** villain slot they can use to introduce a **Minor** villain. This minor villain can be leveled up into a Major & Supreme villain, but you cannot make a Major or Supreme villain without spending the [[Lore Points|LP]] to introduce them as such. As well, slots are available for purchase with LP. Slots can also be opened up if the villain is [[NPCs & Villains#Villain Retirement|retired]] or redeemed.
+Villains require having an available **villain slot** that they occupy. Each GM starts with **two** villain slots they can use to introduce **Minor** villains. These minor villain can be leveled up into Major & Supreme villains, but you cannot make a Major or Supreme villain without spending the [[Lore Points|LP]] to introduce them as such. As well, slots are available for purchase with LP. Slots can also be opened up if the villain is [[NPCs & Villains#Villain Retirement|retired]] or redeemed.
 
 Villain rules are as follows:
 1. You must have a villain slot available for your villain to occupy.

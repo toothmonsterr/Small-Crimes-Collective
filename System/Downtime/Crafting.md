@@ -3,7 +3,8 @@ tags:
   - system
   - player
 ---
-Crafting can be done with the use of [[Materials]] and [[Downtime]]. Players can craft the types of equipment based on their classes. Equipment marked ✦ means that class can make Martial variants of the specified equipment type as well as the base variant. As well, specific classes are able to transmute materials into other types of materials.
+Crafting can be done with the use of [[Materials]] and [[Downtime]]. Players can craft the types of equipment based on their classes. Equipment marked ✦ means that class can make Martial variants of the specified equipment type as well as the base variant. As well, specific classes are able to [[Crafting#Transmutation|transmute]] materials into other types of materials.
+## Crafting Classes Table
 
 | Class        | Equipment Type              |
 | ------------ | --------------------------- |

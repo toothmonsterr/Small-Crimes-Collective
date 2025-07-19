@@ -3,6 +3,7 @@ tags:
   - system
   - player
 ---
+## Replenishing
 The following methods of replenishing your resources are available:
 
 | Resource             | Cost     | Description                                      |

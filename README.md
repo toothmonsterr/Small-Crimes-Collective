@@ -19,7 +19,6 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 ### Player Characters
 * [[Character Creation]]
 * [[Player Progression]]
-* [[Player Progression]]
 * [[Playing in Sessions]]
 * [[Quirks]]
 * [[Roleplay]]
@@ -35,5 +34,4 @@ This is the Wiki repository for the lore and systems of the Small Crimes Collect
 * [[Qualities]]
 ## WIP
 * [[Lore Points]]
-* [[Projects]]
 * [[Downtime]]

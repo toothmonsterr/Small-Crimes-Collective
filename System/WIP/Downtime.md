@@ -2,7 +2,6 @@
 tags:
   - system
   - player
-  - stub
 ---
 Downtime actions are based off of real world time and are associated with two categories: **regular** and **progress**.
 ## Regular Actions
@@ -11,7 +10,7 @@ Downtime actions are based off of real world time and are associated with two ca
 The regular actions available are as follows:
 * Forming Bonds with Players or NPCs
 * Resting
-* Working a part-time job
+* Working for zenit
 * [[Crafting#Transmutation|Transmuting]] materials
 ### Bonds
 Bonds can be formed with any player character or NPC you have interacted with. You must have an established relationship with the PC to form a bond with them. Every bond starts with a strength of 1 and a single emotion unless otherwise stated by a feature or quirk, ex. the Fettered Heart quirk.
@@ -38,8 +37,17 @@ Character: [Character Name]
 Action: Relaxes
 Gains: [+1 Fabula Point|Cooking|Etc]
 ```
-### Part-Time Work
-TBD.
+### Earning Zenit
+Zenit can be earned in downtime once a day. There are two options for making zenit through downtime:
+* **Working a job** -- An average day at work. Make an 【INS + WLP】 check and multiply your result by ([[Player Progression#Player Tiers|character tier]] * 2). That result is the zenit you earn.
+* **Doing dangers** -- Expeditions, pit fighting, and other physical labors. Make a 【DEX + MIG】 check and multiply your result by (character tier * 2). That result is the zenit you earn.
+
+Earning zenit must be logged after the rolls described above using this format:
+```
+Character: [Character Name]
+Action: Earns zenit through [working a job|doing dangers]
+Gains: [Zenit earned]
+```
 ### Transmutation
 TBD.
 ## Progress Actions
@@ -83,7 +91,9 @@ Clock: 0/[EP Cost]
 
 You can create your clock within a thread branching off of the post you create. After making your thread (you need the channel to exist first), simply type /clock and create a clock with your needed segments using the provided Discord command. Track the EP you spend in this thread as well.
 ### Projects
-Projects are custom inventions, consumables, or other enhancements that fall outside the realm of equipment and standard crafting. The primary purpose of projects is to provide interactions with the world in new ways without interfering with established combat mechanics. 
+Projects are custom inventions, consumables, or other enhancements that fall outside the realm of equipment and standard crafting. The primary purpose of projects are to provide interactions with the world in new ways without interfering with established mechanics. 
+
+Projects **must** be started and progressed via downtime, meaning they cannot be started nor progressed during sessions in any way that influences the ongoing session.
 
 Some examples of Projects include:
 * Non-Combat Vehicles
@@ -149,7 +159,51 @@ If you have the Visionary skill, your zenit costs are 【SL × 100】 cheaper. Y
 #### Gourmet Projects
 The Gourmet class also allows for the completion of projects, with the caveat they are always **consumable**, meaning they are one-time use. Their area of effect is based on the number and type of creatures you need to nourish.
 ### Rituals
-TBD.
+Similar to Projects, Rituals are custom magical effects, world-changing spells, or other magic-induced narrative change to the environment. Similarly, the primary purpose of rituals are to provide interactions with the world in new ways without interfering with established mechanics.
+
+However, unlike projects, rituals can and often do occur during sessions, used as a tool to resolve circumstances with magical means. Rituals only become project actions when their scope falls outside the scope of the average or ongoing session.
+
+Some examples of downtime rituals include:
+* Rituals with an **Extreme** potency (ex. weaken a divine entity, prevent a catastrophe, cause a week-long change in a creature or location).
+* Rituals with an area of **Huge** (ex. a fortress, a lake, a mountaintop, a village, a city block).
+* Rituals that change any ongoing world-clocks, forward or backward.
+* Rituals related to longer term plot threads.
+
+Rituals should never:
+* Cause direct damage to a group of enemies. Collateral damage **is** allowed, however-- for example, a chasm opening up beneath a group of enemies and causing them damage from a fall.
+* Inflict or remove status effects on characters or enemies.
+* Cause characters to lose, gain, or otherwise influence any currency (i.e. zenit, MP, HP, Fabula Points, etc).
+* Replicate mechanical effects already existing via skills or spells.
+* Generate equipment, creatures, or permanent abilities.
+
+Downtime rituals **require** the use of materials to replace the upfront MP cost. This is **instead** of MP. As well, progressing Ritual Clocks with a potency of Medium or higher requires a successful Magic Check every tick of the progress clock.
+
+The EP costs, material costs, and effectiveness of a given Ritual is as follows:
+
+| Potency | Base EP | Material Cost                   | Magic Check DL |
+| ------- | ------- | ------------------------------- | -------------- |
+| Minor   | 1       | 1 x ❇️crafted or 2 x common     | 7              |
+| Medium  | 2       | 1 x 🌀strange or 2 x ❇️crafted  | 10             |
+| Major   | 4       | 1 x ✨enigmatic or 2 x 🌀strange | 13             |
+| Extreme | 8       | 1 x 🌠mythic or 2 x ✨enigmatic  | 16             |
+
+| Area       | Additional EP Cost | Material Mutliplier |
+| ---------- | ------------------ | ------------------- |
+| Individual | +0                 | x 1                 |
+| Small      | +2                 | x 2                 |
+| Large      | +4                 | x 3                 |
+| Huge       | +6                 | x 4                 |
+
+Failing the Magic Check has the result of either undoing a tick on the progress clock, *or* the effects of the ritual are changed or twisted in some unexpected way. If choosing the second option, ping a GM to propose or receive a twist to the ritual.
+
+You will log your ritual with the following template:
+```
+Character [Character Name]
+Action: Starting a Ritual
+Description: [Short description of the ritual]
+Cost: [Materials used]
+Clock: 0/[EP Cost]
+```
 ### Retraining
 TBD.
 ### Research

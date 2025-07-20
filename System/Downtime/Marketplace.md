@@ -106,3 +106,5 @@ Items with the symbol ✦ on them are **martial** items, requiring specific clas
 | No Quality.                              |        |           |              |
 | **Runic Shield ✦**                       | 150 z  | **+2**    | **+2**       |
 | No Quality.                              |        |           |              |
+## Trading With Other Players
+TBD.

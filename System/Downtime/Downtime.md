@@ -148,7 +148,7 @@ Material can be used to lessen zenit costs. The reduction of zenit is based on t
 | 📕artifact | Replaces full zenit cost |
 
 > [!info] Example
-> A project with **Major** potency, **Small** effect, and a **single** use would cost 800 zenit and a 5 EP with a 5-section clock.
+> A project with **Major** potency, **Small** effect, and a **single** use would cost 800 zenit and 5 EP with a 5-section clock.
 
 You will log your project with the following template:
 ```

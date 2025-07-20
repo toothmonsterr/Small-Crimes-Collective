@@ -3,7 +3,7 @@ tags:
   - system
   - player
 ---
-Qualities are used in [[Crafting#Rare Equipment|rare equipment crafting]]. A piece of equipment may only have **one** quality, regardless of rarity.
+Qualities are used in [[Crafting#Rare Equipment|rare equipment crafting]]. A piece of equipment may only have **one** quality, regardless of rarity. Qualities can be changed on individual equipment with [[Transmutation]].
 
 As well, when a character has qualities on equipment with the same name or effect, their effects will never stack or combine. This rule effects the following:
 - Variants of the same quality, such as Resistance (Fire) and Resistance (Cold) will not combine **unless** they are listed specifically as separate qualities, ex. ;

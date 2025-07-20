@@ -32,7 +32,7 @@ Once he passes, the [[Angelic Night|Angelic Nights]] begin. The kiss of life; wh
 
 Now that the phenomena can be predicted, people begin to put it to use – it’s a time for [[Doctors Within Borders|dangerous surgeries]], [[Death Tourism|reckless entertainment]]... and the time for dangerous criminals to act with abandon.
 ### Present: Death Tourism 
-Soon, outsiders begin to flock to the city seeking to do all of the dangerous things that would kill you elsewhere. Among them is one [[Leonid Yakovich]], who becomes a prominent member of the underworld.
+Soon, outsiders begin to flock to the city seeking to do all of the dangerous things that would kill you elsewhere. Among them is one Leonid Yakovich, who becomes a prominent member of the underworld.
 
 The flood of impulsive tourists leads to a surge in crime, and the city reacts. Groups of [[Agents of Chaos|bounty hunters]] form to capture and execute people outside of the city limits during the Angelic Nights, though they’re hardly innocent groups themselves.
 ____

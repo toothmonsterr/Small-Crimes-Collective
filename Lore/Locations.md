@@ -20,7 +20,7 @@ The city that sits atop the isle is colloquially called the [[City of Angels]]--
 * [[Waterside Boulevard]]
 
 ## Elsewhere on Enigmata
-The world pf [[Enigmata]] is wide and vast. This list will be updated as more is established.
+The world of [[The World of Enigmata|Enigmata]] is wide and vast. This list will be updated as more is established.
 * [[Erkodea]]
 * [[Adrias]]
 * [[The Holy Kingdom of Bave]]

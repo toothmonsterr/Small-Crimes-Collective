@@ -6,6 +6,8 @@ tags:
 ---
 **Materials**, which can be gained through session rewards, events, and downtime foraging, is most often used to craft equipment. Each material come assigned with one or more **tags**, which correlate to the customizations and qualities you are able to craft into your equipment. Each tag is associated with a symbol.
 
+Material tags can be changed with [[Transmutation]].
+
 > [!info] Example
 > A **Smoldering Rock** gained from the volcanic ashes of the isle would perhaps have a **🔥fire** tag or a **👊tough** tag, which you could use to give the **Resistance: Fire** quality to an accessory.
 

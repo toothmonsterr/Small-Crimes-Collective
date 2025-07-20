@@ -6,35 +6,35 @@ tags:
 Crafting can be done with the use of [[Materials]] and [[Downtime]]. Players can craft the types of equipment based on their classes. Equipment marked ✦ means that class can make Martial variants of the specified equipment type as well as the base variant. As well, specific classes are able to [[Crafting#Transmutation|transmute]] materials into other types of materials.
 ## Crafting Classes Table
 
-| Class        | Equipment Type              |
-| ------------ | --------------------------- |
-| Ace of Cards | N/A                         |
-| Arcanist     | Arcane Weapons              |
-| Chanter      | N/A                         |
-| Chimerist    | Able to Transmute           |
-| Commander    | All Weapons✦                |
-| Dancer       | Accessories, Armor          |
-| Darkblade    | Melee Weapons✦, Armor✦      |
-| Elementalist | Arcane Weapons              |
-| Entropist    | Arcane Weapons              |
-| Floralist    | Able to Transmute           |
-| Fury         | Melee Weapons✦, Armor✦      |
-| Gourmet      | Gourmet Projects            |
-| Guardian     | Armor✦, Shields✦            |
-| Invoker      | Able to Transmute           |
-| Loremaster   | N/A                         |
-| Merchant     | N/A                         |
-| Mutant       | N/A                         |
-| Necromancer  | Arcane Weapons              |
-| Orator       | N/A                         |
-| Pilot        | Vehicle Modules, Transport  |
-| Rogue        | Melee Weapons               |
-| Sharpshooter | Ranged Weapons✦             |
-| Spiritist    | Arcane Weapons              |
-| Symbolist    | Accessories                 |
-| Tinkerer     | Anything, Tinker Projects   |
-| Wayfarer     | Accessories, Ranged Weapons |
-| Weaponmaster | Melee Weapons✦, Shields✦    |
+| Class        | Equipment Type                       |
+| ------------ | ------------------------------------ |
+| Ace of Cards | N/A                                  |
+| Arcanist     | Arcane Weapons                       |
+| Chanter      | N/A                                  |
+| Chimerist    | Able to [[Transmutation\|Transmute]] |
+| Commander    | All Weapons✦                         |
+| Dancer       | Accessories, Armor                   |
+| Darkblade    | Melee Weapons✦, Armor✦               |
+| Elementalist | Arcane Weapons                       |
+| Entropist    | Arcane Weapons                       |
+| Floralist    | Able to Transmute                    |
+| Fury         | Melee Weapons✦, Armor✦               |
+| Gourmet      | Gourmet Projects                     |
+| Guardian     | Armor✦, Shields✦                     |
+| Invoker      | Able to Transmute                    |
+| Loremaster   | N/A                                  |
+| Merchant     | N/A                                  |
+| Mutant       | N/A                                  |
+| Necromancer  | Arcane Weapons                       |
+| Orator       | N/A                                  |
+| Pilot        | Vehicle Modules, Transport           |
+| Rogue        | Melee Weapons                        |
+| Sharpshooter | Ranged Weapons✦                      |
+| Spiritist    | Arcane Weapons                       |
+| Symbolist    | Accessories                          |
+| Tinkerer     | Anything, Tinker Projects            |
+| Wayfarer     | Accessories, Ranged Weapons          |
+| Weaponmaster | Melee Weapons✦, Shields✦             |
 ## Creating Equipment
 The type of equipment you create is determined by the materials you use and the classes you can craft with. Materials with tags related to **effects** will provide access to customization and quality options, for example.
 ### Custom Weapons
@@ -83,5 +83,3 @@ Rare weapons have the following **free** allowances for changes:
 Rare armor is crafted based on existing basic equipment. If its base is considered martial ✦, so is its crafted variant.
 #### Accessories
 Accessories are always considered rare, as they have no basic equivalent, and one can only equip one accessory at a time.
-## Transmutation
-TBD.

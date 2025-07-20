@@ -11,9 +11,9 @@ The regular actions available are as follows:
 * Forming Bonds with Players or NPCs
 * Resting
 * Working for zenit
-* [[Crafting#Transmutation|Transmuting]] materials
+* Transmutation
 ### Bonds
-Bonds can be formed with any player character or NPC you have interacted with. You must have an established relationship with the PC to form a bond with them. Every bond starts with a strength of 1 and a single emotion unless otherwise stated by a feature or quirk, ex. the Fettered Heart quirk.
+[[Bonds]] can be formed with any player character or NPC you have interacted with. You must have an established relationship with the PC to form a bond with them. Every bond starts with a strength of 1 and a single emotion unless otherwise stated by a feature or quirk, ex. the Fettered Heart quirk.
 
 Bonds formed must be logged in downtime-log using the following format:
 ```
@@ -38,7 +38,7 @@ Action: Relaxes
 Gains: [+1 Fabula Point|Cooking|Etc]
 ```
 ### Earning Zenit
-Zenit can be earned in downtime once a day. There are two options for making zenit through downtime:
+Zenit can be earned in downtime once a day, logged in downtime-log. There are two options for making zenit through downtime:
 * **Working a job** -- An average day at work. Make an 【INS + WLP】 check and multiply your result by ([[Player Progression#Player Tiers|character tier]] * 2). That result is the zenit you earn.
 * **Doing dangers** -- Expeditions, pit fighting, and other physical labors. Make a 【DEX + MIG】 check and multiply your result by (character tier * 2). That result is the zenit you earn.
 
@@ -49,7 +49,13 @@ Action: Earns zenit through [working a job|doing dangers]
 Gains: [Zenit earned]
 ```
 ### Transmutation
-TBD.
+You can [[Transmutation|transmute]] both [[materials]] and equipment [[qualities]] into different types if you have a class capable of doing so, i.e. one or more levels of Chimerist, Floralist, or Invoker. Rules regarding transmutation are [[Transmutation|here]].
+
+Log your transmutation in downtime-log with the following format:
+```
+Character: [Character Name]
+Action: Transmutes material from [Tag] to [Tag]
+```
 ## Progress Actions
 **Progress** actions require the use of a currency known as **Echo Points** (EP). All characters start with **4** EP, and more are gained on a weekly basis. Characters gain **2** EP at the start of every Saturday (midnight EST), and can have a **maximum** of **8** EP.
 
